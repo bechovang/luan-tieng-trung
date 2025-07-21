@@ -19,7 +19,12 @@
 \RequirePackage{float}							% 确定浮动对象的位置
 \RequirePackage{bm}
 \RequirePackage{amssymb}
+\usepackage{natbib}
+\usepackage{bibentry}
+\nobibliography*
 
+% Footcite command with full citation
+\newcommand{\footcite}[1]{\footnote{\bibentry{#1}}}
 
 
 % 天文期刊缩写

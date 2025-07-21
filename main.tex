@@ -14,6 +14,33 @@
 	% 调用宏包，使用 GB/T 7714-2015 参考文献著录格式
 	\usepackage{gbt7714}
 	
+	% 添加脚注相关包
+	\usepackage{footnote}
+	\usepackage{footmisc}
+	
+	% 确保natbib可用
+	% \usepackage{natbib}
+	% \usepackage{bibentry}
+	% \nobibliography*
+	
+	% 自定义脚注引用命令
+	% 命令：在脚注中显示完整的参考文献信息
+	\newcommand{\footcite}[1]{\footnote{\bibentry{#1}}}
+	
+	% 命令：在脚注中显示完整的参考文献信息（带说明文字）
+	\newcommand{\footcitewith}[2]{%
+		\footnote{%
+			#2 \cite{#1}%
+		}%
+	}
+	
+	% 命令：在脚注中显示多个参考文献
+	\newcommand{\footcitemulti}[1]{%
+		\footnote{%
+			\cite{#1}%
+		}%
+	}
+	
 	\begin{document}
 	\graphicspath{{figures/}}
 	
