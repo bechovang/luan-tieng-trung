@@ -47,5 +47,17 @@
 \contentsline {subsubsection}{\numberline {1.5.3.2}历史分析法 (Historical Analysis)}{20}{subsubsection.1.5.3.2}%
 \contentsline {subsubsection}{\numberline {1.5.3.3}比较分析法 (Comparative Analysis)}{20}{subsubsection.1.5.3.3}%
 \contentsline {subsubsection}{\numberline {1.5.3.4}理论综合与模型构建法 (Model Building)}{20}{subsubsection.1.5.3.4}%
-\contentsline {chapter}{参考文献}{22}{section*.16}%
+\contentsline {section}{\numberline {1.6}核心概念}{21}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}高等教育中的质量：一个多维度的概念}{21}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}质量保障与认证：区别与关系}{22}{subsection.1.6.2}%
+\contentsline {paragraph}{质量保障 (Quality Assurance - QA):}{22}{subsection.1.6.2}%
+\contentsline {paragraph}{认证 (Accreditation):}{22}{subsection.1.6.2}%
+\contentsline {paragraph}{关系：}{23}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1.7}论文结构 (Structure of the Dissertation)}{23}{section.1.7}%
+\contentsline {paragraph}{第一章：引言。}{23}{section.1.7}%
+\contentsline {paragraph}{第二章：高等教育质量保障的理论基础。}{23}{section.1.7}%
+\contentsline {paragraph}{第三章：越南外部质量保障体系现状分析。}{24}{section.1.7}%
+\contentsline {paragraph}{第四章：国际经验及其对越南的启示。}{24}{section.1.7}%
+\contentsline {paragraph}{第五章：为越南完善质量保障体系提出模型与解决方案。}{24}{section.1.7}%
+\contentsline {chapter}{参考文献}{25}{section*.16}%
 \contentsfinish 

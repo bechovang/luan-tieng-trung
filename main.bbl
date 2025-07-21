@@ -1,4 +1,4 @@
-\begin{thebibliography}{51}
+\begin{thebibliography}{54}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -354,5 +354,26 @@ SARTORI~G.
 PRZEWORSKI~A, TEUNE~H.
 \newblock The logic of comparative social inquiry[M].
 \newblock [S.l.]: Wiley-Interscience, 1970.
+
+\bibitem[Harvey et~al.(1993)Harvey and Green]{HarveyGreen1993}
+HARVEY~L, GREEN~D.
+\newblock Defining quality[J].
+\newblock Assessment \& Evaluation in Higher Education, 1993, 18\allowbreak
+  (1): 9-34.
+
+\bibitem[{International Network for Quality Assurance Agencies in Higher
+  Education (INQAAHE)}(2018)]{INQAAHE_Glossary}
+{International Network for Quality Assurance Agencies in Higher Education
+  (INQAAHE)}.
+\newblock Glossary of terms for quality assurance and accreditation[EB/OL].
+\newblock 2018.
+\newblock \url{https://www.inqaahe.org/glossary}.
+
+\bibitem[{Council for Higher Education Accreditation
+  (CHEA)}(2021)]{CHEA_Definition}
+{Council for Higher Education Accreditation (CHEA)}.
+\newblock The value of accreditation[EB/OL].
+\newblock 2021.
+\newblock \url{https://www.chea.org/value-accreditation}.
 
 \end{thebibliography}
