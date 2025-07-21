@@ -2,21 +2,5 @@
 \contentsline {chapter}{ABSTRACT}{II}{section*.4}%
 \contentsline {chapter}{插图索引}{V}{section*.8}%
 \contentsline {chapter}{表格索引}{VI}{section*.10}%
-\contentsline {chapter}{第~1~章\hspace {1em} 中华人民共和国}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}其它例子}{2}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}绘图}{2}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}插图}{2}{subsection.1.1.2}%
-\contentsline {subsubsection}{\numberline {1.1.2.1}一个图形}{2}{subsubsection.1.1.2.1}%
-\contentsline {chapter}{参考文献}{4}{section*.14}%
-\contentsline {chapter}{附录~ I\hspace {1em} 外文资料原文}{5}{appendix.A}%
-\contentsline {section}{\numberline { I.1}Single-Objective Programming}{5}{section.A.1}%
-\contentsline {subsection}{\numberline { I.1.1}Linear Programming}{6}{subsection.A.1.1}%
-\contentsline {subsection}{\numberline { I.1.2}Nonlinear Programming}{7}{subsection.A.1.2}%
-\contentsline {chapter}{附录~ II\hspace {1em} 外文资料的调研阅读报告或书面翻译}{8}{appendix.B}%
-\contentsline {section}{\numberline { II.1}单目标规划}{8}{section.B.1}%
-\contentsline {subsection}{\numberline { II.1.1}线性规划}{8}{subsection.B.1.1}%
-\contentsline {subsection}{\numberline { II.1.2}非线性规划}{9}{subsection.B.1.2}%
-\contentsline {chapter}{附录~ III\hspace {1em} 其它附录}{10}{appendix.C}%
-\contentsline {chapter}{学术成果}{11}{section*.25}%
-\contentsline {chapter}{致谢}{12}{section*.27}%
+\contentsline {chapter}{参考文献}{2}{section*.12}%
 \contentsfinish 

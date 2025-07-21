@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.7.21)  21 JUL 2025 17:21
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.7.21)  21 JUL 2025 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1028,18 +1028,13 @@ other characters in Unicode lower plane
 ) (C:\Program Files\MiKTeX\tex/xelatex/xecjk\xunicode-extra.def
 File: xunicode-extra.def 2022/08/05 v3.9.1 extra definition for xunicode
 ) (main.aux
-(data/chap1.aux) (data/chap2.aux)
-
-LaTeX Warning: Label `tab:badtabular3' multiply defined.
-
-(data/paper.aux) (data/ack.aux))
+(data/chap1.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 44.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
 44.
-
-(C:\Program Files\MiKTeX\tex/latex/txfonts\omltxmi.fd
+ (C:\Program Files\MiKTeX\tex/latex/txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 44.
@@ -1288,105 +1283,16 @@ LaTeX Font Warning: Font shape `OMS/TimesNewRoman(0)/m/n' undefined
 ) [1
 
 
-]
-\openout2 = `data/chap2.aux'.
-
- (data/chap2.tex
-
-LaTeX Warning: Reference `cha:intro' on page 2 undefined on input line 9.
-
-
-LaTeX Warning: Reference `equ:chap1:bayes' on page 2 undefined on input line 9.
-
-
-LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 33.
-
-
-Package fontspec Info: Font family 'simkai.ttf(0)' created for font
-(fontspec)             'simkai.ttf' with options
-(fontspec)             [Mapping=tex-text,Script={CJK},Path={fonts/},AutoFakeBol
-d={4}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[fonts/simkai.ttf]/OT:script=hani;language=dflt;mapp
-ing=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[fonts/simkai.ttf]/OT:script=hani;language=dflt;embo
-lden=4;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-
-File: figures/hello.pdf Graphic file (type pdf)
-<use figures/hello.pdf>
-[2
-
-
-
-
-]) [3] (main.bbl) (data/appendix.tex [4
-
-
-
-
-]
-\c@currmpdefctr=\count389
-\c@endmpdefctr=\count390
-\c@mpdef=\count391
-Package hyperref Info: bookmark level for unknown mpdef defaults to 0 on input 
-line 34.
-\c@currmpdefopctr=\count392
-\c@endmpdefopctr=\count393
-Package hyperref Info: bookmark level for unknown mpdefop defaults to 0 on inpu
-t line 46.
- [5
-
-]
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 96
-.
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
-[]|\TU/TimesNewRoman(0)/m/n/11.04124 Waxman
- []
-
-[6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
-[]|\TU/TimesNewRoman(0)/m/n/11.04124 Waxman
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
-[]|\TU/TimesNewRoman(0)/m/n/11.04124 Waxman
- []
-
-[8
-
-] [9]) [10
-
-]
-\openout2 = `data/paper.aux'.
-
- (data/paper.tex) [11
-
-
-
-]
-\openout2 = `data/ack.aux'.
-
- (data/ack.tex) [12
-
-
-
-
-
-]
+] (main.bbl)
 \tf@thm=\write7
 \openout7 = `main.thm'.
 
- (main.aux
-(data/chap1.aux) (data/chap2.aux) (data/paper.aux) (data/ack.aux))
+ [2
+
+
+
+
+] (main.aux (data/chap1.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
@@ -1395,22 +1301,16 @@ L3 programming layer <2022/08/05>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CB223D56489783B4E6399C8939D049AB;3065.
+(rerunfilecheck)             Checksum: 6A6BCC3CA06E31C58503808A85FFA67B;673.
  ) 
 Here is how much of TeX's memory you used:
- 26392 strings out of 409617
- 508463 string characters out of 5778276
- 1944191 words of memory out of 5000000
- 48048 multiletter control sequences out of 15000+600000
- 594773 words of font info for 226 fonts, out of 8000000 for 9000
+ 25901 strings out of 409617
+ 489908 string characters out of 5778276
+ 1934191 words of memory out of 5000000
+ 47593 multiletter control sequences out of 15000+600000
+ 569815 words of font info for 146 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 109i,11n,121p,868b,727s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,10n,121p,868b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (20 pages).
+Output written on main.pdf (10 pages).
