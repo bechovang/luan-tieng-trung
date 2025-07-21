@@ -111,5 +111,10 @@
 \contentsline {paragraph}{子流程4.2：教-学活动与评估的管理}{44}{Item.50}%
 \contentsline {paragraph}{子流程4.3：数据收集与分析系统 – 基于证据的治理基础}{45}{Item.50}%
 \contentsline {paragraph}{关于内部流程要素的结论：}{45}{Item.54}%
-\contentsline {chapter}{参考文献}{47}{section*.20}%
+\contentsline {subsubsection}{\numberline {2.3.2.5}要素5的详细分析：合作与协调 (Cooperation \& Collaboration)}{46}{subsubsection.2.3.2.5}%
+\contentsline {paragraph}{定义与范围：}{46}{subsubsection.2.3.2.5}%
+\contentsline {paragraph}{理论与实践基础：}{46}{subsubsection.2.3.2.5}%
+\contentsline {paragraph}{在越南实践中的指标与表现：}{46}{subsubsection.2.3.2.5}%
+\contentsline {subsection}{\numberline {2.3.3}V-AQA模型的互动与运作分析}{47}{subsection.2.3.3}%
+\contentsline {chapter}{参考文献}{49}{section*.21}%
 \contentsfinish 
