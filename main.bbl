@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{12}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -11,9 +11,85 @@
   \let\eprint\href
 \fi
 
-\bibitem[Smith et~al.(2020)Smith and Davis]{smith2020}
-SMITH~J, DAVIS~M.
-\newblock Advances in machine learning: A comprehensive survey[J].
-\newblock Journal of Computer Science, 2020, 15\allowbreak (3): 245-260.
+\bibitem[Altbach(2001)]{Altbach2001}
+ALTBACH~P~G.
+\newblock Comparative higher education: Knowledge, the university, and
+  development[M].
+\newblock [S.l.]: Greenwood Publishing Group, 2001.
+
+\bibitem[{The World Bank}(2007)]{WB_KnowledgeEconomy}
+{The World Bank}.
+\newblock Building knowledge economies: Advanced strategies for
+  development[EB/OL].
+\newblock 2007.
+\newblock \url{https://openknowledge.worldbank.org/handle/10986/6958}.
+
+\bibitem[{Organisation for Economic Co-operation and
+  Development}(2008)]{OECD_HE2008}
+{Organisation for Economic Co-operation and Development}.
+\newblock Tertiary education for the knowledge society: volume~1[EB/OL].
+\newblock 2008.
+\newblock
+  \url{https://www.oecd.org/education/innovation-education/tertiaryeducationfortheknowledgesociety-volume1.htm}.
+
+\bibitem[{The World Bank}(2021)]{WorldBank_QA_GlobalTrends}
+{The World Bank}.
+\newblock The global push for quality in higher education: A look at worldwide
+  trends in quality assurance[Z].
+\newblock [S.l.: s.n.], 2021.
+
+\bibitem[{UNESCO International Institute for Educational Planning
+  (IIEP)}(2018)]{UNESCO_QA2018}
+{UNESCO International Institute for Educational Planning (IIEP)}.
+\newblock External quality assurance: facing new challenges[EB/OL].
+\newblock 2018.
+\newblock \url{https://unesdoc.unesco.org/ark:/48223/pf0000265646}.
+
+\bibitem[Trow(2007)]{Trow2007}
+TROW~M.
+\newblock Reflections on the transition from elite to mass to universal access:
+  Forms and phases of higher education in modern societies since
+  wwii[M]//\allowbreak
+FOREST~J~J, ALTBACH~P~G.
+\newblock International Handbook of Higher Education.
+\newblock [S.l.]: Springer, 2007: 243-280.
+
+\bibitem[Harvey(2005)]{Harvey2005}
+HARVEY~L.
+\newblock A history and critique of quality evaluation in the uk[J].
+\newblock Quality Assurance in Education, 2005, 13\allowbreak (4): 263-276.
+
+\bibitem[Knight(2006)]{Knight2006}
+KNIGHT~J.
+\newblock Cross-border education: An analytical framework for program and
+  provider mobility[M]//\allowbreak
+ALTBACH~P~G, KNIGHT~J.
+\newblock International Higher Education.
+\newblock [S.l.]: SensePublishers, 2006: 3-18.
+
+\bibitem[{ASEAN Secretariat}(2015)]{ASEAN_AEC_Blueprint}
+{ASEAN Secretariat}.
+\newblock Asean economic community blueprint 2025[EB/OL].
+\newblock 2015.
+\newblock
+  \url{https://asean.org/wp-content/uploads/2021/11/AEC-Blueprint-2025-FINAL.pdf}.
+
+\bibitem[{ASEAN University Network}(2022)]{AUNQA_History}
+{ASEAN University Network}.
+\newblock About aun-qa[EB/OL].
+\newblock 2022.
+\newblock \url{https://www.aunsec.org/discover-aun/thematic-networks/aun-qa}.
+
+\bibitem[{ASEAN University Network}(2020)]{AUN-QAGuide}
+{ASEAN University Network}.
+\newblock Guide to aun-qa assessment at programme level version 4.0[EB/OL].
+\newblock 2020.
+\newblock
+  \url{https://www.aunsec.org/application/files/2816/7290/3752/Guide_to_AUN-QA_Assessment_at_Programme_Level_Version_4.0_4.pdf}.
+
+\bibitem[{AUN-QA Secretariat}(2023)]{AUNQA_Report2023}
+{AUN-QA Secretariat}.
+\newblock Aun-qa annual report 2023[Z].
+\newblock [S.l.: s.n.], 2023.
 
 \end{thebibliography}

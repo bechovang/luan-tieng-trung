@@ -1,9 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.7.21)  21 JUL 2025 17:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.7.21)  21 JUL 2025 18:15
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**"c:/Users/Admin/Desktop/GIT CLONE/luan-tieng-trung/main.tex"
+(c:/Users/Admin/Desktop/GIT CLONE/luan-tieng-trung/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (bnuthesis.cls
@@ -995,30 +996,32 @@ Package: bm 2023/07/08 v1.2f Bold Symbol Support (DPC/FMi)
 )
 (C:\Program Files\MiKTeX\tex/latex/natbib\bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
-) (main.bbl))
+) (main.bbl) (main.bbl))
 (gbt7714.sty
 Package: gbt7714 2020/12/17 v2.1 GB/T 7714—2015 BibTeX Style
-) (C:\Program Files\MiKTeX\tex/latex/mdwtools\footnote.sty
-Package: footnote 1997/01/28 1.13 Save footnotes around boxes
-\fn@notes=\box72
-\fn@width=\dimen307
 )
+\c@globalfootnote=\count388
 
-! LaTeX Error: Command \footcite already defined.
+
+c:/Users/Admin/Desktop/GIT CLONE/luan-tieng-trung/main.tex:37: LaTeX Error: Com
+mand \footcite already defined.
                Or name \end... illegal, see p.192 of the manual.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 ...nd{\footcite}[1]{\footnote{\bibentry{#1}}}
+l.37 ...nd{\footcite}[1]{\footnote{\bibentry{#1}}}
                                                   
-? 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 (C:\Program Files\MiKTeX\tex/xelatex/xecjk\xunicode-addon.sty
 Package: xunicode-addon 2022/08/05 v3.9.1 addon file for xunicode
-\l__xunadd_tmp_coffin=\box73
-\l__xunadd_circle_coffin=\box74
-\l_xunadd_slot_int=\count388
+\l__xunadd_tmp_coffin=\box72
+\l__xunadd_circle_coffin=\box73
+\l_xunadd_slot_int=\count389
 )
 (C:\Program Files\MiKTeX\tex/xelatex/xunicode\xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
@@ -1027,67 +1030,67 @@ other characters in Unicode lower plane
 *** Reloading Xunicode for encoding 'TU' ***
 ) (C:\Program Files\MiKTeX\tex/xelatex/xecjk\xunicode-extra.def
 File: xunicode-extra.def 2022/08/05 v3.9.1 extra definition for xunicode
-) (main.aux
-(data/chap1.aux))
+) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 44.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 53.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-44.
- (C:\Program Files\MiKTeX\tex/latex/txfonts\omltxmi.fd
+53.
+
+(C:\Program Files\MiKTeX\tex/latex/txfonts\omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 53.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-44.
+53.
 
 (C:\Program Files\MiKTeX\tex/latex/txfonts\omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-4.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+3.
 
 (C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 53.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-44.
+53.
 
 (C:\Program Files\MiKTeX\tex/latex/txfonts\omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 44.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 4
-4.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 53.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 5
+3.
 
 (C:\Program Files\MiKTeX\tex/latex/txfonts\utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 44.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 44
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 53.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 53
 .
 
 (C:\Program Files\MiKTeX\tex/latex/tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
@@ -1098,7 +1101,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 44.
+Package hyperref Info: Link coloring OFF on input line 53.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -1208,32 +1211,32 @@ olden=4;mapping=tex-text;"
 
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 49.
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 4
-9.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 58.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 5
+8.
  (C:\Program Files\MiKTeX\tex/latex/txfonts\ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 4
-9.
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 5
+8.
 
 (C:\Program Files\MiKTeX\tex/latex/txfonts\utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 4
-9.
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 5
+8.
 
 (C:\Program Files\MiKTeX\tex/latex/txfonts\utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 4
-9.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 5
+8.
 
 (C:\Program Files\MiKTeX\tex/latex/txfonts\utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 4
-9.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 5
+8.
 
 (C:\Program Files\MiKTeX\tex/latex/txfonts\utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
@@ -1247,70 +1250,3 @@ File: utxsyc.fd 2000/12/15 v3.1
 ] [2
 
 
-] [3] (main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
- [4
-
-
-] (main.lof)
-\tf@lof=\write5
-\openout5 = `main.lof'.
-
- [5
-
-
-] (main.lot)
-\tf@lot=\write6
-\openout6 = `main.lot'.
-
- [6
-
-
-]
-\openout2 = `data/chap1.aux'.
-
- (data/chap1.tex
-LaTeX Font Info:    Trying to load font information for OMS+TimesNewRoman(0) on
- input line 1.
-LaTeX Font Info:    No file OMSTimesNewRoman(0).fd. on input line 1.
-
-
-LaTeX Font Warning: Font shape `OMS/TimesNewRoman(0)/m/n' undefined
-(Font)              using `OMS/txsy/m/n' instead on input line 1.
-
-) [1
-
-
-] (main.bbl)
-\tf@thm=\write7
-\openout7 = `main.thm'.
-
- [2
-
-
-
-
-] (main.aux (data/chap1.aux))
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2022/08/05>
- ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6A6BCC3CA06E31C58503808A85FFA67B;673.
- ) 
-Here is how much of TeX's memory you used:
- 25901 strings out of 409617
- 489908 string characters out of 5778276
- 1934191 words of memory out of 5000000
- 47593 multiletter control sequences out of 15000+600000
- 569815 words of font info for 146 fonts, out of 8000000 for 9000
- 1349 hyphenation exceptions out of 8191
- 109i,10n,121p,868b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on main.pdf (10 pages).

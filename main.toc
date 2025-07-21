@@ -2,5 +2,9 @@
 \contentsline {chapter}{ABSTRACT}{II}{section*.4}%
 \contentsline {chapter}{插图索引}{V}{section*.8}%
 \contentsline {chapter}{表格索引}{VI}{section*.10}%
-\contentsline {chapter}{参考文献}{2}{section*.12}%
+\contentsline {chapter}{第~1~章\hspace {1em} 引言}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}研究背景与选题理由}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}全球背景：质量保障成为必然趋势}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}区域背景：东盟共同体内的质量协调化}{3}{subsection.1.1.2}%
+\contentsline {chapter}{参考文献}{5}{section*.13}%
 \contentsfinish 

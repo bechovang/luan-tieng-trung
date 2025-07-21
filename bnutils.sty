@@ -23,8 +23,16 @@
 \usepackage{bibentry}
 \nobibliography*
 
-% Footcite command with full citation
-\newcommand{\footcite}[1]{\footnote{\bibentry{#1}}}
+% Load required packages for footcite
+\usepackage{natbib}
+\usepackage{bibentry}
+\nobibliography*
+
+% Custom footcite command that works with global counter
+\newcommand{\footcite}[1]{%
+  \stepcounter{globalfootnote}%
+  \footnote{\bibentry{#1}}%
+}
 
 
 % 天文期刊缩写

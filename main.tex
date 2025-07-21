@@ -15,8 +15,17 @@
 	\usepackage{gbt7714}
 	
 	% 添加脚注相关包
-	\usepackage{footnote}
-	\usepackage{footmisc}
+	% \usepackage{footnote}
+	% \usepackage[perpage=false]{footmisc}
+	
+	% Override document class footnote system for continuous numbering
+	\makeatletter
+	% Disable per-page reset by redefining the footnote counter
+	\newcounter{globalfootnote}
+	\setcounter{globalfootnote}{0}
+	\renewcommand{\thefootnote}{\arabic{globalfootnote}}
+	\renewcommand{\thempfootnote}{\arabic{globalfootnote}}
+	\makeatother
 	
 	% 确保natbib可用
 	% \usepackage{natbib}
