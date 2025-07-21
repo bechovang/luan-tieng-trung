@@ -1,2 +1,6 @@
 **/.DS_Store
 .texpadtmp
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
