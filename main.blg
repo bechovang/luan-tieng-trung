@@ -42,45 +42,45 @@ Repeated entry---line 700 of file ref/refs.bib
  : @misc{ExpertPerspectivesVN
  :                           ,
 I'm skipping whatever remains of this entry
-You've used 41 entries,
+You've used 45 entries,
             5246 wiz_defined-function locations,
-            1254 strings with 16075 characters,
-and the built_in function-call counts, 195123 in all, are:
-= -- 4329
-> -- 20655
-< -- 27888
-+ -- 8394
-- -- 1349
-* -- 1106
-:= -- 27494
-add.period$ -- 153
-call.type$ -- 41
-change.case$ -- 134
-chr.to.int$ -- 7413
-cite$ -- 41
-duplicate$ -- 952
-empty$ -- 2822
-format.name$ -- 643
-if$ -- 51253
+            1282 strings with 16844 characters,
+and the built_in function-call counts, 220647 in all, are:
+= -- 4823
+> -- 23586
+< -- 31642
++ -- 9435
+- -- 1492
+* -- 1238
+:= -- 30998
+add.period$ -- 168
+call.type$ -- 45
+change.case$ -- 160
+chr.to.int$ -- 8336
+cite$ -- 45
+duplicate$ -- 1047
+empty$ -- 3076
+format.name$ -- 731
+if$ -- 57956
 int.to.chr$ -- 3
-int.to.str$ -- 42
+int.to.str$ -- 46
 missing$ -- 0
-newline$ -- 252
-num.names$ -- 126
-pop$ -- 8867
+newline$ -- 276
+num.names$ -- 139
+pop$ -- 10163
 preamble$ -- 1
-purify$ -- 41
+purify$ -- 45
 quote$ -- 0
-skip$ -- 19700
+skip$ -- 22425
 stack$ -- 0
-substring$ -- 9253
-swap$ -- 47
-text.length$ -- 465
+substring$ -- 10377
+swap$ -- 51
+text.length$ -- 523
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 495
+type$ -- 527
 warning$ -- 0
-while$ -- 603
+while$ -- 676
 width$ -- 0
-write$ -- 561
+write$ -- 617
 (There were 7 error messages)

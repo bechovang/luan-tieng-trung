@@ -1,4 +1,4 @@
-\begin{thebibliography}{41}
+\begin{thebibliography}{45}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -292,5 +292,31 @@ AUTHORS~M.
 \newblock Vietnam's higher education quality assurance system: Expert
   perspectives on challenges and progress[Z].
 \newblock [S.l.: s.n.], 2024.
+
+\bibitem[Creswell et~al.(2018)Creswell and Creswell]{Creswell2018}
+CRESWELL~J~W, CRESWELL~J~D.
+\newblock Research design: Qualitative, quantitative, and mixed methods
+  approaches[M].
+\newblock 5th ed.
+\newblock [S.l.]: SAGE Publications, 2018.
+
+\bibitem[Guba et~al.(1994)Guba and Lincoln]{GubaLincoln1994}
+GUBA~E~G, LINCOLN~Y~S.
+\newblock Competing paradigms in qualitative research[M]//\allowbreak
+DENZIN~N~K, LINCOLN~Y~S.
+\newblock Handbook of Qualitative Research.
+\newblock [S.l.]: Sage Publications, 1994: 105-117.
+
+\bibitem[Yin(2018)]{Yin2018}
+YIN~R~K.
+\newblock Case study research and applications: Design and methods[M].
+\newblock 6th ed.
+\newblock [S.l.]: SAGE Publications, 2018.
+
+\bibitem[Charmaz(2006)]{Charmaz2006}
+CHARMAZ~K.
+\newblock Constructing grounded theory: A practical guide through qualitative
+  analysis[M].
+\newblock [S.l.]: SAGE Publications, 2006.
 
 \end{thebibliography}

@@ -39,5 +39,8 @@
 \contentsline {paragraph}{研究对象：}{15}{subsection.1.4.1}%
 \contentsline {paragraph}{研究范围：}{16}{Item.13}%
 \contentsline {subsection}{\numberline {1.4.2}论文的核心论点 (Thesis Statement)}{16}{subsection.1.4.2}%
-\contentsline {chapter}{参考文献}{17}{section*.16}%
+\contentsline {section}{\numberline {1.5}方法论与研究方法}{17}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}研究哲学与研究路径 (Research Philosophy and Approach)}{17}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}研究设计 (Research Design)}{18}{subsection.1.5.2}%
+\contentsline {chapter}{参考文献}{19}{section*.16}%
 \contentsfinish 
