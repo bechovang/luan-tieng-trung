@@ -1,4 +1,4 @@
-\begin{thebibliography}{71}
+\begin{thebibliography}{75}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -484,5 +484,30 @@ WYSOCKI~R~K.
 \newblock Adaptive project framework: Managing complexity in the face of
   uncertainty[M].
 \newblock [S.l.]: Addison-Wesley Professional, 2009.
+
+\bibitem[{AUN-QA \& VNEQA}(2024)]{CommonFailureCriteria}
+{AUN-QA \& VNEQA}.
+\newblock Common quality assurance failure criteria in vietnamese higher
+  education: Analysis of official reports and assessment data[Z].
+\newblock [S.l.: s.n.], 2024.
+
+\bibitem[Arnstein(1969)]{Arnstein1969}
+ARNSTEIN~S~R.
+\newblock A ladder of citizen participation[J].
+\newblock Journal of the American Institute of Planners, 1969, 35\allowbreak
+  (4): 216-224.
+
+\bibitem[{European Network for Quality Assurance in Higher
+  Education}(2018)]{ENQA_Stakeholder2018}
+{European Network for Quality Assurance in Higher Education}.
+\newblock Stakeholder involvement in external quality assurance[EB/OL].
+\newblock 2018.
+\newblock \url{https://brill.com/downloadpdf/book/9789462094949/BP000008.pdf}.
+
+\bibitem[Nguyen(2022)]{AUN-QA_Challenges_VN}
+NGUYEN~H.
+\newblock Challenges and best practices in implementing aun-qa standards in
+  vietnamese higher education institutions[Z].
+\newblock [S.l.: s.n.], 2022.
 
 \end{thebibliography}
