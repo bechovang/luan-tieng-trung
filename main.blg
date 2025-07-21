@@ -18,45 +18,45 @@ Repeated entry---line 553 of file ref/refs.bib
  : @misc{AUN-QAGuide
  :                  ,
 I'm skipping whatever remains of this entry
-You've used 12 entries,
+You've used 27 entries,
             5246 wiz_defined-function locations,
-            1096 strings with 10168 characters,
-and the built_in function-call counts, 77770 in all, are:
-= -- 1320
-> -- 8995
-< -- 11533
-+ -- 3124
-- -- 421
-* -- 320
-:= -- 10558
-add.period$ -- 44
-call.type$ -- 12
-change.case$ -- 56
-chr.to.int$ -- 2841
-cite$ -- 12
-duplicate$ -- 285
-empty$ -- 848
-format.name$ -- 192
-if$ -- 20523
-int.to.chr$ -- 1
-int.to.str$ -- 13
+            1158 strings with 12869 characters,
+and the built_in function-call counts, 112407 in all, are:
+= -- 2664
+> -- 11377
+< -- 15794
++ -- 4944
+- -- 815
+* -- 664
+:= -- 16036
+add.period$ -- 104
+call.type$ -- 27
+change.case$ -- 71
+chr.to.int$ -- 4342
+cite$ -- 27
+duplicate$ -- 630
+empty$ -- 1925
+format.name$ -- 372
+if$ -- 29601
+int.to.chr$ -- 3
+int.to.str$ -- 28
 missing$ -- 0
-newline$ -- 84
-num.names$ -- 38
-pop$ -- 4122
+newline$ -- 174
+num.names$ -- 83
+pop$ -- 4696
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 27
 quote$ -- 0
-skip$ -- 8329
+skip$ -- 11148
 stack$ -- 0
-substring$ -- 3440
-swap$ -- 14
-text.length$ -- 137
+substring$ -- 5454
+swap$ -- 33
+text.length$ -- 287
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 142
+type$ -- 337
 warning$ -- 0
-while$ -- 179
+while$ -- 374
 width$ -- 0
-write$ -- 174
+write$ -- 369
 (There was 1 error message)

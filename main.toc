@@ -6,5 +6,19 @@
 \contentsline {section}{\numberline {1.1}研究背景与选题理由}{2}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}全球背景：质量保障成为必然趋势}{2}{subsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.1.2}区域背景：东盟共同体内的质量协调化}{3}{subsection.1.1.2}%
-\contentsline {chapter}{参考文献}{5}{section*.13}%
+\contentsline {subsection}{\numberline {1.1.3}2015-2024年阶段越南高等教育发展背景：现状分析}{4}{subsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.3.1}系统规模与结构的发展}{4}{subsubsection.1.1.3.1}%
+\contentsline {paragraph}{关于教育机构数量：}{4}{subsubsection.1.1.3.1}%
+\contentsline {paragraph}{关于学生规模：}{5}{subsubsection.1.1.3.1}%
+\contentsline {paragraph}{潜在原因分析：}{5}{figure.caption.13}%
+\contentsline {paragraph}{关于学生结构与民办院校的角色：}{6}{figure.caption.13}%
+\contentsline {subsubsection}{\numberline {1.1.3.2}招生工作现状与专业选择趋势分析}{6}{subsubsection.1.1.3.2}%
+\contentsline {paragraph}{参与比例与招生结果：}{6}{subsubsection.1.1.3.2}%
+\contentsline {paragraph}{专业选择趋势：}{7}{figure.caption.14}%
+\contentsline {subsubsection}{\numberline {1.1.3.3}资源分析：师资队伍与物质设施}{8}{subsubsection.1.1.3.3}%
+\contentsline {paragraph}{关于师资队伍：}{8}{subsubsection.1.1.3.3}%
+\contentsline {paragraph}{关于资源分布：}{8}{figure.caption.15}%
+\contentsline {subsubsection}{\numberline {1.1.3.4}产出分析：毕业与就业}{9}{subsubsection.1.1.3.4}%
+\contentsline {subsubsection}{\numberline {1.1.3.5}关于现状的初步结论}{9}{subsubsection.1.1.3.5}%
+\contentsline {chapter}{参考文献}{10}{section*.16}%
 \contentsfinish 

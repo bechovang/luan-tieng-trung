@@ -1,4 +1,4 @@
-\begin{thebibliography}{12}
+\begin{thebibliography}{27}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -91,5 +91,112 @@ ALTBACH~P~G, KNIGHT~J.
 {AUN-QA Secretariat}.
 \newblock Aun-qa annual report 2023[Z].
 \newblock [S.l.: s.n.], 2023.
+
+\bibitem[{人民报}(2021)]{stat_quy_mo_2015_2021}
+{人民报}.
+\newblock {越南高等教育的有说服力的数据}[EB/OL].
+\newblock 2021.
+\newblock
+  \url{https://nhandan.vn/so-luong-sinh-vien-nuoc-ngoai-den-viet-nam-hoc-tap-dang-tang-len-post826248.html}.
+
+\bibitem[{教育培训部}(2024)]{stat_moet_2024}
+{教育培训部}.
+\newblock {2023-2024学年高等教育统计}[EB/OL].
+\newblock 2024.
+\newblock
+  \url{https://moet.gov.vn/thong-ke/Pages/thong-ko-giao-duc-dai-hoc.aspx}.
+
+\bibitem[{人民代表报}(2024)]{stat_tuyen_sinh_2024_so_lieu}
+{人民代表报}.
+\newblock {2024年大学招生全景}[EB/OL].
+\newblock 2024.
+\newblock
+  \url{https://daibieunhandan.vn/giao-duc/toan-canh-tuyen-sinh-dai-hoc-nam-2024-i364055/}.
+
+\bibitem[{教育与时代报}(2024{\natexlab{a}})]{stat_thi_sinh_2024}
+{教育与时代报}.
+\newblock {2024年超过100万考生报名参加高中毕业考试}[EB/OL].
+\newblock 2024{\natexlab{a}}.
+\newblock
+  \url{https://giaoduc.net.vn/bo-giao-duc-va-dao-tao-ban-hanh-he-thong-chi-tieu-thong-ke-nganh-giao-duc-post241623.gd}.
+
+\bibitem[{北江报}(2024)]{stat_nhap_hoc_2024}
+{北江报}.
+\newblock {超过55.1万名考生确认第一批大学入学}[EB/OL].
+\newblock 2024.
+\newblock
+  \url{https://baobacgiang.vn/hon-551-nghin-thi-sinh-xac-nhan-nhap-hoc-dai-hoc-dot-1-432854.bbg}.
+
+\bibitem[{教育培训部}(2015)]{ref1}
+{教育培训部}.
+\newblock {高等教育统计}[EB/OL].
+\newblock 2015.
+\newblock
+  \url{https://moet.gov.vn/thong-ke/Pages/thong-ko-giao-duc-dai-hoc.aspx}.
+
+\bibitem[{人民报}(2024)]{ref2}
+{人民报}.
+\newblock {82\%的录取考生已确认入学}[EB/OL].
+\newblock 2024.
+\newblock
+  \url{https://nhandan.vn/82-thi-sinh-trung-tuyen-da-xac-nhan-nhap-hoc-post827191.html}.
+
+\bibitem[{健康与生活报}(2024)]{ref3}
+{健康与生活报}.
+\newblock {近年大学招生结果如何？}[EB/OL].
+\newblock 2024.
+\newblock
+  \url{https://suckhoedoisong.vn/ket-qua-tuyen-sinh-dai-hoc-nhung-nam-gan-day-ra-sao-169240327094521875.htm}.
+
+\bibitem[{越南网}(2024)]{ref5}
+{越南网}.
+\newblock {超过12.2万名考生虽被录取但未入学}[EB/OL].
+\newblock 2024.
+\newblock
+  \url{https://vietnamnet.vn/hon-122-000-thi-sinh-khong-nhap-hoc-dai-hoc-du-trung-tuyen-2316192.html}.
+
+\bibitem[{越南教育报}(2024{\natexlab{a}})]{ref7}
+{越南教育报}.
+\newblock
+  {9年改革后的大学招生图景：为考生创造更多便利}[EB/OL].
+\newblock 2024{\natexlab{a}}.
+\newblock
+  \url{https://giaoduc.net.vn/buc-tranh-tuyen-sinh-dh-qua-9-nam-doi-moi-ngay-cang-tao-thuan-loi-cho-thi-sinh-post241486.gd}.
+
+\bibitem[{青年报}(2022)]{ref12}
+{青年报}.
+\newblock {教育培训部：超过56万名考生第一批考上大学}[EB/OL].
+\newblock 2022.
+\newblock
+  \url{https://tuoitre.vn/bo-giao-duc-va-dao-tao-hon-560-000-thi-sinh-dau-dai-hoc-dot-1-20221001122512044.htm}.
+
+\bibitem[{越南教育报}(2024{\natexlab{b}})]{ref19}
+{越南教育报}.
+\newblock
+  {2023年，每100名高中毕业考生中有53名进入大学}[EB/OL].
+\newblock 2024{\natexlab{b}}.
+\newblock
+  \url{https://giaoduc.net.vn/nam-2023-cu-100-hoc-sinh-thi-tot-nghiep-thpt-thi-co-53-em-vao-dai-hoc-post241475.gd}.
+
+\bibitem[{教育与时代报}(2024{\natexlab{b}})]{stat_ty_le_vao_dh_2023}
+{教育与时代报}.
+\newblock
+  {2023年，每100名高中毕业考生中有53名进入大学}[EB/OL].
+\newblock 2024{\natexlab{b}}.
+\newblock
+  \url{https://giaoduc.net.vn/nam-2023-cu-100-hoc-sinh-thi-tot-nghiep-thpt-thi-co-53-em-vao-dai-hoc-post241475.gd}.
+
+\bibitem[{统计总局}(2021)]{stat_phan_bo_dia_ly}
+{统计总局}.
+\newblock {按社会经济区域划分的高等教育机构分布}[EB/OL].
+\newblock 2021.
+\newblock \url{https://www.gso.gov.vn/en/category/education/}.
+
+\bibitem[{民智报}(2018)]{stat_that_nghiep_2018}
+{民智报}.
+\newblock {大学及以上学历劳动者失业率仍然很高}[EB/OL].
+\newblock 2018.
+\newblock
+  \url{https://dantri.com.vn/lao-dong-viec-lam/ty-le-that-nghiep-cua-lao-dong-co-trinh-do-dai-hoc-tro-len-van-cao-20181024103130444.htm}.
 
 \end{thebibliography}
