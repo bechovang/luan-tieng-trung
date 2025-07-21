@@ -59,75 +59,76 @@
 \contentsline {paragraph}{第三章：越南外部质量保障体系现状分析。}{23}{section.1.7}%
 \contentsline {paragraph}{第四章：国际经验及其对越南的启示。}{23}{section.1.7}%
 \contentsline {paragraph}{第五章：为越南完善质量保障体系提出模型与解决方案。}{23}{section.1.7}%
-\contentsline {chapter}{第~2~章\hspace {1em} 高等教育质量保障的理论基础}{25}{chapter.2}%
-\contentsline {section}{引言}{25}{section*.17}%
-\contentsline {section}{\numberline {2.1}质量保障体系分析的基础理论框架}{26}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}新制度主义理论 (New Institutionalism Theory)}{26}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.1}起源与发展历史}{26}{subsubsection.2.1.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.2}核心概念及其在越南高等教育中的应用}{27}{subsubsection.2.1.1.2}%
-\contentsline {paragraph}{制度场域 (Institutional Field):}{27}{subsubsection.2.1.1.2}%
-\contentsline {paragraph}{合法性 (Legitimacy):}{27}{subsubsection.2.1.1.2}%
-\contentsline {paragraph}{制度同形 (Institutional Isomorphism):}{27}{subsubsection.2.1.1.2}%
-\contentsline {paragraph}{2. 模仿性同形 (Mimetic Isomorphism):}{28}{subsubsection.2.1.1.2}%
-\contentsline {paragraph}{3. 规范性同形 (Normative Isomorphism):}{28}{subsubsection.2.1.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.1.3}新制度主义理论的应用与批判}{29}{subsubsection.2.1.1.3}%
-\contentsline {subsection}{\numberline {2.1.2}利益相关者理论 (Stakeholder Theory)}{30}{subsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.2.1}起源与核心原则}{30}{subsubsection.2.1.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.2.2}越南高等教育质量保障中的利益相关者地图}{30}{subsubsection.2.1.2.2}%
-\contentsline {subsubsection}{\numberline {2.1.2.3}利益相关者的显著性 (Stakeholder Salience)}{32}{subsubsection.2.1.2.3}%
-\contentsline {subsubsection}{\numberline {2.1.2.4}利益相关者理论的应用与批判}{33}{subsubsection.2.1.2.4}%
-\contentsline {subsection}{\numberline {2.1.3}委托代理理论 (Principal-Agent Theory)}{33}{subsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.3.1}起源与核心概念}{33}{subsubsection.2.1.3.1}%
-\contentsline {subsubsection}{\numberline {2.1.3.2}作为监督和合同机制的质量保障体系}{34}{subsubsection.2.1.3.2}%
-\contentsline {paragraph}{多层次的委托代理关系：}{34}{subsubsection.2.1.3.2}%
-\contentsline {paragraph}{质量保障实践中的监督机制：}{34}{subsubsection.2.1.3.2}%
-\contentsline {subsubsection}{\numberline {2.1.3.3}委托代理理论的应用与批判}{35}{subsubsection.2.1.3.3}%
-\contentsline {section}{\numberline {2.2}世界现代质量保障模型}{36}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}混合模型 (Hybrid Model): 协调问责与改进}{36}{subsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}诞生背景与理念}{36}{subsubsection.2.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.2}组成部分与特点}{36}{subsubsection.2.2.1.2}%
-\contentsline {subsection}{\numberline {2.2.2}适应性框架 (Adaptive Framework): 在变化世界中的质量管理}{37}{subsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.2.1}与传统方法的比较}{37}{subsubsection.2.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2.2}适应性框架的核心原则}{37}{subsubsection.2.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.2.3}对越南国情的适用性}{38}{subsubsection.2.2.2.3}%
-\contentsline {section}{\numberline {2.3}为越南高等教育提出分析模型：混合与适应性模型 (V-AQA)}{38}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}建立一个综合模型的必要性论证}{38}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}V-AQA模型的结构与核心要素}{39}{subsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.2.1}要素1的详细分析：领导与治理 (Leadership \& Governance)}{40}{subsubsection.2.3.2.1}%
-\contentsline {paragraph}{定义与范围：}{40}{subsubsection.2.3.2.1}%
-\contentsline {paragraph}{理论与实践基础：}{40}{subsubsection.2.3.2.1}%
-\contentsline {paragraph}{实践中的指标与表现：}{40}{subsubsection.2.3.2.1}%
-\contentsline {subsubsection}{\numberline {2.3.2.2}要素2的详细分析：质量文化 (Quality Culture)}{40}{subsubsection.2.3.2.2}%
-\contentsline {paragraph}{定义与范围：}{40}{subsubsection.2.3.2.2}%
-\contentsline {paragraph}{理论基础与质量文化的维度：}{41}{subsubsection.2.3.2.2}%
-\contentsline {paragraph}{在越南实践中的指标与表现：}{41}{Item.46}%
-\contentsline {subsubsection}{\numberline {2.3.2.3}要素3的详细分析：利益相关者的参与 (Stakeholder Engagement)}{42}{subsubsection.2.3.2.3}%
-\contentsline {paragraph}{定义与范围：}{42}{subsubsection.2.3.2.3}%
-\contentsline {paragraph}{理论与实践基础：}{42}{subsubsection.2.3.2.3}%
-\contentsline {paragraph}{在越南实践中的指标与表现：}{43}{subsubsection.2.3.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.2.4}要素4的详细分析：内部流程 (Internal Processes)}{43}{subsubsection.2.3.2.4}%
-\contentsline {paragraph}{定义与范围：}{43}{subsubsection.2.3.2.4}%
-\contentsline {paragraph}{子流程4.1：培养方案（CDĐT）的设计与审查}{43}{subsubsection.2.3.2.4}%
-\contentsline {paragraph}{子流程4.2：教-学活动与评估的管理}{44}{Item.50}%
-\contentsline {paragraph}{子流程4.3：数据收集与分析系统 – 基于证据的治理基础}{45}{Item.50}%
-\contentsline {paragraph}{关于内部流程要素的结论：}{45}{Item.54}%
-\contentsline {subsubsection}{\numberline {2.3.2.5}要素5的详细分析：合作与协调 (Cooperation \& Collaboration)}{46}{subsubsection.2.3.2.5}%
-\contentsline {paragraph}{定义与范围：}{46}{subsubsection.2.3.2.5}%
-\contentsline {paragraph}{理论与实践基础：}{46}{subsubsection.2.3.2.5}%
-\contentsline {paragraph}{在越南实践中的指标与表现：}{46}{subsubsection.2.3.2.5}%
-\contentsline {subsection}{\numberline {2.3.3}V-AQA模型的互动与运作分析}{47}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}以国际经验审视V-AQA模型}{48}{subsection.2.3.4}%
-\contentsline {subsubsection}{\numberline {2.3.4.1}中国案例：国家控制与竞争能力之间的平衡}{48}{subsubsection.2.3.4.1}%
-\contentsline {paragraph}{1. 领导与治理：}{49}{subsubsection.2.3.4.1}%
-\contentsline {paragraph}{2. 质量文化：}{49}{subsubsection.2.3.4.1}%
-\contentsline {paragraph}{3. 利益相关者的参与：}{49}{subsubsection.2.3.4.1}%
-\contentsline {paragraph}{4. 内部流程：}{49}{subsubsection.2.3.4.1}%
-\contentsline {paragraph}{5. 合作与协调：}{49}{subsubsection.2.3.4.1}%
-\contentsline {subsubsection}{\numberline {2.3.4.2}东盟大学网络质量保障（AUN-QA）案例：多样性中的协调}{50}{subsubsection.2.3.4.2}%
-\contentsline {paragraph}{1. 领导与治理：}{50}{subsubsection.2.3.4.2}%
-\contentsline {paragraph}{2. 质量文化：}{50}{subsubsection.2.3.4.2}%
-\contentsline {paragraph}{3. 利益相关者的参与：}{50}{subsubsection.2.3.4.2}%
-\contentsline {paragraph}{4. 内部流程：}{50}{subsubsection.2.3.4.2}%
-\contentsline {paragraph}{5. 合作与协调：}{50}{subsubsection.2.3.4.2}%
-\contentsline {chapter}{参考文献}{52}{section*.21}%
+\contentsline {chapter}{第~2~章\hspace {1em} 高等教育质量保障的理论基础}{24}{chapter.2}%
+\contentsline {section}{引言}{24}{section*.17}%
+\contentsline {section}{\numberline {2.1}质量保障体系分析的基础理论框架}{25}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}新制度主义理论 (New Institutionalism Theory)}{25}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}起源与发展历史}{25}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}核心概念及其在越南高等教育中的应用}{26}{subsubsection.2.1.1.2}%
+\contentsline {paragraph}{制度场域 (Institutional Field):}{26}{subsubsection.2.1.1.2}%
+\contentsline {paragraph}{合法性 (Legitimacy):}{26}{subsubsection.2.1.1.2}%
+\contentsline {paragraph}{制度同形 (Institutional Isomorphism):}{26}{subsubsection.2.1.1.2}%
+\contentsline {paragraph}{2. 模仿性同形 (Mimetic Isomorphism):}{27}{subsubsection.2.1.1.2}%
+\contentsline {paragraph}{3. 规范性同形 (Normative Isomorphism):}{27}{subsubsection.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.1.3}新制度主义理论的应用与批判}{28}{subsubsection.2.1.1.3}%
+\contentsline {subsection}{\numberline {2.1.2}利益相关者理论 (Stakeholder Theory)}{29}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.1}起源与核心原则}{29}{subsubsection.2.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.2.2}越南高等教育质量保障中的利益相关者地图}{29}{subsubsection.2.1.2.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.3}利益相关者的显著性 (Stakeholder Salience)}{31}{subsubsection.2.1.2.3}%
+\contentsline {subsubsection}{\numberline {2.1.2.4}利益相关者理论的应用与批判}{32}{subsubsection.2.1.2.4}%
+\contentsline {subsection}{\numberline {2.1.3}委托代理理论 (Principal-Agent Theory)}{32}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}起源与核心概念}{32}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}作为监督和合同机制的质量保障体系}{33}{subsubsection.2.1.3.2}%
+\contentsline {paragraph}{多层次的委托代理关系：}{33}{subsubsection.2.1.3.2}%
+\contentsline {paragraph}{质量保障实践中的监督机制：}{33}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}委托代理理论的应用与批判}{34}{subsubsection.2.1.3.3}%
+\contentsline {section}{\numberline {2.2}世界现代质量保障模型}{35}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}混合模型 (Hybrid Model): 协调问责与改进}{35}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}诞生背景与理念}{35}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}组成部分与特点}{35}{subsubsection.2.2.1.2}%
+\contentsline {subsection}{\numberline {2.2.2}适应性框架 (Adaptive Framework): 在变化世界中的质量管理}{36}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}与传统方法的比较}{36}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}适应性框架的核心原则}{36}{subsubsection.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.3}对越南国情的适用性}{37}{subsubsection.2.2.2.3}%
+\contentsline {section}{\numberline {2.3}为越南高等教育提出分析模型：混合与适应性模型 (V-AQA)}{37}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}建立一个综合模型的必要性论证}{37}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}V-AQA模型的结构与核心要素}{38}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}要素1的详细分析：领导与治理 (Leadership \& Governance)}{39}{subsubsection.2.3.2.1}%
+\contentsline {paragraph}{定义与范围：}{39}{subsubsection.2.3.2.1}%
+\contentsline {paragraph}{理论与实践基础：}{39}{subsubsection.2.3.2.1}%
+\contentsline {paragraph}{实践中的指标与表现：}{39}{subsubsection.2.3.2.1}%
+\contentsline {subsubsection}{\numberline {2.3.2.2}要素2的详细分析：质量文化 (Quality Culture)}{39}{subsubsection.2.3.2.2}%
+\contentsline {paragraph}{定义与范围：}{39}{subsubsection.2.3.2.2}%
+\contentsline {paragraph}{理论基础与质量文化的维度：}{40}{subsubsection.2.3.2.2}%
+\contentsline {paragraph}{在越南实践中的指标与表现：}{40}{Item.46}%
+\contentsline {subsubsection}{\numberline {2.3.2.3}要素3的详细分析：利益相关者的参与 (Stakeholder Engagement)}{41}{subsubsection.2.3.2.3}%
+\contentsline {paragraph}{定义与范围：}{41}{subsubsection.2.3.2.3}%
+\contentsline {paragraph}{理论与实践基础：}{41}{subsubsection.2.3.2.3}%
+\contentsline {paragraph}{在越南实践中的指标与表现：}{42}{subsubsection.2.3.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.2.4}要素4的详细分析：内部流程 (Internal Processes)}{42}{subsubsection.2.3.2.4}%
+\contentsline {paragraph}{定义与范围：}{42}{subsubsection.2.3.2.4}%
+\contentsline {paragraph}{子流程4.1：培养方案（CDĐT）的设计与审查}{42}{subsubsection.2.3.2.4}%
+\contentsline {paragraph}{子流程4.2：教-学活动与评估的管理}{43}{Item.50}%
+\contentsline {paragraph}{子流程4.3：数据收集与分析系统 – 基于证据的治理基础}{44}{Item.50}%
+\contentsline {paragraph}{关于内部流程要素的结论：}{44}{Item.54}%
+\contentsline {subsubsection}{\numberline {2.3.2.5}要素5的详细分析：合作与协调 (Cooperation \& Collaboration)}{45}{subsubsection.2.3.2.5}%
+\contentsline {paragraph}{定义与范围：}{45}{subsubsection.2.3.2.5}%
+\contentsline {paragraph}{理论与实践基础：}{45}{subsubsection.2.3.2.5}%
+\contentsline {paragraph}{在越南实践中的指标与表现：}{45}{subsubsection.2.3.2.5}%
+\contentsline {subsection}{\numberline {2.3.3}V-AQA模型的互动与运作分析}{46}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}以国际经验审视V-AQA模型}{47}{subsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.4.1}中国案例：国家控制与竞争能力之间的平衡}{47}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{1. 领导与治理：}{48}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{2. 质量文化：}{48}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{3. 利益相关者的参与：}{48}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{4. 内部流程：}{48}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{5. 合作与协调：}{48}{subsubsection.2.3.4.1}%
+\contentsline {subsubsection}{\numberline {2.3.4.2}东盟大学网络质量保障（AUN-QA）案例：多样性中的协调}{49}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{1. 领导与治理：}{49}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{2. 质量文化：}{49}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{3. 利益相关者的参与：}{49}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{4. 内部流程：}{49}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{5. 合作与协调：}{49}{subsubsection.2.3.4.2}%
+\contentsline {section}{本章结论}{50}{section*.21}%
+\contentsline {chapter}{参考文献}{52}{section*.22}%
 \contentsfinish 
