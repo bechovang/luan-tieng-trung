@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{41}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -260,5 +260,37 @@ LANGRAFE~T~F, DE~SOUZA~M~A, DE~LIMA~E~P, et~al.
 HARVEY~L, STENSAKER~B.
 \newblock Quality culture: Understandings, boundaries and linkages[J].
 \newblock European Journal of Education, 2008, 43\allowbreak (4): 427-442.
+
+\bibitem[黎文江(2003)]{LeVanGiang2003}
+黎文江.
+\newblock {越南教育史}[M].
+\newblock [出版地不详]: 国家政治出版社, 2003.
+
+\bibitem[{教育培训部}(1995)]{MOET_50nam}
+{教育培训部}.
+\newblock {教育培训事业50年发展（1945-1995）}[M].
+\newblock [出版地不详]: 教育出版社, 1995.
+
+\bibitem[陈庆德(2010)]{TranKhanhDuc2010}
+陈庆德.
+\newblock {21世纪的教育与人力资源开发}[M].
+\newblock [出版地不详]: 越南教育出版社, 2010.
+
+\bibitem[阮德政(2002)]{NguyenDucChinh2002}
+阮德政.
+\newblock {高等教育质量评估}[M].
+\newblock [出版地不详]: 河内国家大学出版社, 2002.
+
+\bibitem[Authors(2023)]{VJE_Challenges2023}
+AUTHORS~M.
+\newblock Challenges in implementing quality assurance standards in vietnamese
+  higher education institutions[J].
+\newblock Vietnam Journal of Education, 2023.
+
+\bibitem[{Multiple Authors}(2024)]{ExpertPerspectivesVN}
+{Multiple Authors}.
+\newblock Vietnam's higher education quality assurance system: Expert
+  perspectives on challenges and progress[Z].
+\newblock [S.l.: s.n.], 2024.
 
 \end{thebibliography}

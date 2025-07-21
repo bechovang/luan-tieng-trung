@@ -38,45 +38,49 @@ Repeated entry---line 689 of file ref/refs.bib
  : @misc{HarveyStensaker
  :                      ,
 I'm skipping whatever remains of this entry
-You've used 35 entries,
+Repeated entry---line 700 of file ref/refs.bib
+ : @misc{ExpertPerspectivesVN
+ :                           ,
+I'm skipping whatever remains of this entry
+You've used 41 entries,
             5246 wiz_defined-function locations,
-            1216 strings with 15039 characters,
-and the built_in function-call counts, 176001 in all, are:
-= -- 3792
-> -- 18841
-< -- 25287
-+ -- 7519
-- -- 1201
-* -- 973
-:= -- 24715
-add.period$ -- 135
-call.type$ -- 35
-change.case$ -- 122
-chr.to.int$ -- 6689
-cite$ -- 35
-duplicate$ -- 819
-empty$ -- 2452
-format.name$ -- 567
-if$ -- 46240
+            1254 strings with 16075 characters,
+and the built_in function-call counts, 195123 in all, are:
+= -- 4329
+> -- 20655
+< -- 27888
++ -- 8394
+- -- 1349
+* -- 1106
+:= -- 27494
+add.period$ -- 153
+call.type$ -- 41
+change.case$ -- 134
+chr.to.int$ -- 7413
+cite$ -- 41
+duplicate$ -- 952
+empty$ -- 2822
+format.name$ -- 643
+if$ -- 51253
 int.to.chr$ -- 3
-int.to.str$ -- 36
+int.to.str$ -- 42
 missing$ -- 0
-newline$ -- 222
-num.names$ -- 108
-pop$ -- 8069
+newline$ -- 252
+num.names$ -- 126
+pop$ -- 8867
 preamble$ -- 1
-purify$ -- 35
+purify$ -- 41
 quote$ -- 0
-skip$ -- 17908
+skip$ -- 19700
 stack$ -- 0
-substring$ -- 8308
-swap$ -- 41
-text.length$ -- 400
+substring$ -- 9253
+swap$ -- 47
+text.length$ -- 465
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 439
+type$ -- 495
 warning$ -- 0
-while$ -- 520
+while$ -- 603
 width$ -- 0
-write$ -- 489
-(There were 6 error messages)
+write$ -- 561
+(There were 7 error messages)
