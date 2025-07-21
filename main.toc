@@ -34,5 +34,10 @@
 \contentsline {subsection}{\numberline {1.3.3}研究意义 (Significance of the Study)}{14}{subsection.1.3.3}%
 \contentsline {paragraph}{理论意义 (Theoretical Significance):}{15}{subsection.1.3.3}%
 \contentsline {paragraph}{实践意义 (Practical Significance):}{15}{subsection.1.3.3}%
-\contentsline {chapter}{参考文献}{16}{section*.16}%
+\contentsline {section}{\numberline {1.4}研究对象、范围与论点}{15}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}研究对象与范围 (Object and Scope of the Study)}{15}{subsection.1.4.1}%
+\contentsline {paragraph}{研究对象：}{15}{subsection.1.4.1}%
+\contentsline {paragraph}{研究范围：}{16}{Item.13}%
+\contentsline {subsection}{\numberline {1.4.2}论文的核心论点 (Thesis Statement)}{16}{subsection.1.4.2}%
+\contentsline {chapter}{参考文献}{17}{section*.16}%
 \contentsfinish 
