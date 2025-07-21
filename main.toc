@@ -1,7 +1,7 @@
 \contentsline {chapter}{摘\hspace {1em}要}{I}{section*.2}%
 \contentsline {chapter}{ABSTRACT}{II}{section*.4}%
-\contentsline {chapter}{插图索引}{V}{section*.8}%
-\contentsline {chapter}{表格索引}{VI}{section*.10}%
+\contentsline {chapter}{插图索引}{VI}{section*.8}%
+\contentsline {chapter}{表格索引}{VII}{section*.10}%
 \contentsline {chapter}{第~1~章\hspace {1em} 引言}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}研究背景与选题理由}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}全球背景：质量保障成为必然趋势}{1}{subsection.1.1.1}%
@@ -86,5 +86,16 @@
 \contentsline {subsection}{\numberline {2.2.1}混合模型 (Hybrid Model): 协调问责与改进}{36}{subsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.1.1}诞生背景与理念}{36}{subsubsection.2.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.2.1.2}组成部分与特点}{36}{subsubsection.2.2.1.2}%
-\contentsline {chapter}{参考文献}{38}{section*.19}%
+\contentsline {subsection}{\numberline {2.2.2}适应性框架 (Adaptive Framework): 在变化世界中的质量管理}{37}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}与传统方法的比较}{37}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2.2}适应性框架的核心原则}{38}{subsubsection.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.3}对越南国情的适用性}{38}{subsubsection.2.2.2.3}%
+\contentsline {section}{\numberline {2.3}为越南高等教育提出分析模型：混合与适应性模型 (V-AQA)}{38}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}建立一个综合模型的必要性论证}{38}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}V-AQA模型的结构与核心要素}{39}{subsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2.1}要素1的详细分析：领导与治理 (Leadership \& Governance)}{39}{subsubsection.2.3.2.1}%
+\contentsline {paragraph}{定义与范围：}{39}{subsubsection.2.3.2.1}%
+\contentsline {paragraph}{理论与实践基础：}{39}{subsubsection.2.3.2.1}%
+\contentsline {paragraph}{实践中的指标与表现：}{40}{subsubsection.2.3.2.1}%
+\contentsline {chapter}{参考文献}{41}{section*.20}%
 \contentsfinish 

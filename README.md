@@ -6,6 +6,36 @@
 
 Beijing Normal University thesis template, suitable for undergraduate thesis (design), master's thesis, and doctoral thesis. This template is based on the [BNU Thesis LaTeX Template](http://gerry.lamost.org/blog/?p=811) and modified from the GitHub project [BNUBachelorThesis](https://github.com/xysmlx/BNUBachelorThesis).
 
+## Recent Updates (Latest Features)
+
+### 🆕 New Features Added
+- **Custom Footnote Citations**: Enhanced `\footcite` command that displays full bibliographic information in footnotes
+- **Automated Compilation Script**: `run.bat` for Windows users to automate the full compilation process
+- **Missing Reference Checker**: Python script to identify missing citation keys in bibliography
+- **Continuous Footnote Numbering**: Fixed footnote numbering to be continuous across the document
+- **Vietnamese Language Support**: Added support for Vietnamese text with proper font handling
+
+### 🔧 Technical Improvements
+- **Bibliography Integration**: Full integration with `refs.bib` for comprehensive citation management
+- **Compilation Automation**: One-click compilation with automatic PDF opening
+- **Error Detection**: Tools to identify and fix missing bibliography entries
+- **Cross-Platform Support**: Enhanced compatibility across different operating systems
+
+## Recent Updates (Latest Features)
+
+### 🆕 New Features Added
+- **Custom Footnote Citations**: Enhanced `\footcite` command that displays full bibliographic information in footnotes
+- **Automated Compilation Script**: `run.bat` for Windows users to automate the full compilation process
+- **Missing Reference Checker**: Python script to identify missing citation keys in bibliography
+- **Continuous Footnote Numbering**: Fixed footnote numbering to be continuous across the document
+- **Vietnamese Language Support**: Added support for Vietnamese text with proper font handling
+
+### 🔧 Technical Improvements
+- **Bibliography Integration**: Full integration with `refs.bib` for comprehensive citation management
+- **Compilation Automation**: One-click compilation with automatic PDF opening
+- **Error Detection**: Tools to identify and fix missing bibliography entries
+- **Cross-Platform Support**: Enhanced compatibility across different operating systems
+
 ## Project Ownership and Usage
 
 ### Disclaimer
@@ -81,6 +111,22 @@ This project is maintained as a personal GitHub repository for:
    ```
 
 3. **Open `main.pdf` to view the result**
+
+### For Windows Users (Recommended)
+
+1. **Use the automated script:**
+   ```bash
+   run.bat
+   ```
+   This will automatically:
+   - Clean auxiliary files
+   - Run the full compilation sequence
+   - Open the PDF when complete
+
+2. **Check for missing references:**
+   ```bash
+   python check_all_missing_refs.py
+   ```
 
 ## Installation Guide for Beginners
 
@@ -284,24 +330,38 @@ Install these extensions for better LaTeX editing:
 ### Key Features
 
 - ✅ **Chinese Language Support** - Full UTF-8 encoding
+- ✅ **Vietnamese Language Support** - Added font support for Vietnamese text
 - ✅ **Multiple Fonts** - SimSun, SimHei, SimKai, SimLi, SimYou
 - ✅ **Bibliography** - GB/T 7714-2015 standard
 - ✅ **Professional Tables** - Booktabs formatting
 - ✅ **Figure Support** - Automatic numbering and captions
 - ✅ **Cross-references** - Automatic link generation
 - ✅ **Mathematical Equations** - Full math support
-- ✅ **Footnotes** - Proper Chinese formatting
+- ✅ **Enhanced Footnotes** - Custom `\footcite` command with full bibliography info
+- ✅ **Continuous Footnote Numbering** - Footnotes numbered continuously across document
+- ✅ **Automated Compilation** - `run.bat` script for Windows users
 
 ## Compilation Instructions
 
-### Method 1: VS Code (Recommended for Beginners)
+### Method 1: Automated Script (Recommended for Windows)
+
+1. **Use the provided script:**
+   ```bash
+   run.bat
+   ```
+   This will automatically:
+   - Clean all auxiliary files
+   - Run the full compilation sequence (xelatex → bibtex → xelatex → xelatex)
+   - Open the PDF when complete
+
+### Method 2: VS Code (Recommended for Beginners)
 
 1. Open the project in VS Code
 2. Open `main.tex`
 3. Press `Ctrl+Alt+B` (Windows/Linux) or `Cmd+Alt+B` (macOS)
 4. View the PDF by pressing `Ctrl+Alt+V`
 
-### Method 2: Command Line
+### Method 3: Command Line
 
 ```bash
 # First compilation
@@ -317,7 +377,7 @@ xelatex main.tex
 xelatex main.tex
 ```
 
-### Method 3: Overleaf (Online)
+### Method 4: Overleaf (Online)
 
 1. Go to [Overleaf](https://www.overleaf.com)
 2. Create new project from template
@@ -391,7 +451,14 @@ Subsection content.
 2. Cite in your text:
 
 ```latex
+% Regular citation
 This is a reference \cite{example2023}.
+
+% Footnote citation with full bibliography info
+This is a footnote citation \footcite{example2023}.
+
+% Footnote citation with additional text
+This is a footnote citation \footcitewith{example2023}{See also}.
 ```
 
 ### 4. Adding Figures
@@ -425,6 +492,20 @@ This is a reference \cite{example2023}.
 \end{table}
 ```
 
+### 6. Checking for Missing References
+
+Use the provided Python script to check for missing citation keys:
+
+```bash
+python check_all_missing_refs.py
+```
+
+This will:
+- Scan all `.tex` files in your project
+- Compare with your `refs.bib` file
+- List any missing citation keys
+- Help you identify empty bibliography entries
+
 ## Troubleshooting
 
 ### Common Issues
@@ -454,6 +535,18 @@ This is a reference \cite{example2023}.
 - Use `\include` instead of `\input` for large files
 - Optimize image sizes
 - Remove unused packages
+
+#### 6. Empty Bibliography Entries
+**Solution:**
+- Run `python check_all_missing_refs.py` to identify missing keys
+- Add missing entries to `refs.bib`
+- Or correct citation keys in your `.tex` files
+
+#### 7. Footnote Numbering Issues
+**Solution:**
+- The template now supports continuous footnote numbering
+- If you see per-page numbering, ensure you're using the latest version
+- Check that `\footcite` commands are properly formatted
 
 ### Getting Help
 
@@ -535,6 +628,11 @@ This is a reference \cite{example2023}.
 
 ## Todo List
 
+- [x] Add custom `\footcite` command for full bibliography in footnotes
+- [x] Create automated compilation script (`run.bat`)
+- [x] Add Python script for checking missing references
+- [x] Fix continuous footnote numbering
+- [x] Add Vietnamese language support
 - [ ] Add doctoral thesis book spine support
 - [ ] Implement enhanced bibliography features  
 - [ ] Create department-specific templates
@@ -544,6 +642,6 @@ This is a reference \cite{example2023}.
 
 ---
 
-*Template version: 1.52*  
+*Template version: 1.53*  
 *Last updated: 2024*  
 *Compatible with: TeX Live 2021/2022, XeLaTeX*

@@ -1,4 +1,4 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{71}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -478,5 +478,11 @@ NGUYEN~T~H, PHAM~T~H~T.
 \newblock A hybrid quality assurance model for higher education in vietnam[J].
 \newblock Journal of Southeast Asian Higher Education, 2017, 9\allowbreak (2):
   45-62.
+
+\bibitem[Wysocki(2009)]{Wysocki2009}
+WYSOCKI~R~K.
+\newblock Adaptive project framework: Managing complexity in the face of
+  uncertainty[M].
+\newblock [S.l.]: Addison-Wesley Professional, 2009.
 
 \end{thebibliography}
