@@ -44,45 +44,46 @@ Repeated entry---line 700 of file ref/refs.bib
  : @misc{ExpertPerspectivesVN
  :                           ,
 I'm skipping whatever remains of this entry
-You've used 62 entries,
+Warning--I didn't find a database entry for "VNU-CEA2023"
+You've used 70 entries,
             5246 wiz_defined-function locations,
-            1395 strings with 20148 characters,
-and the built_in function-call counts, 333100 in all, are:
-= -- 6834
-> -- 36652
-< -- 48293
-+ -- 13956
-- -- 2147
-* -- 1767
-:= -- 46295
-add.period$ -- 229
-call.type$ -- 62
-change.case$ -- 246
-chr.to.int$ -- 12436
-cite$ -- 62
-duplicate$ -- 1442
-empty$ -- 4182
-format.name$ -- 1041
-if$ -- 87508
+            1450 strings with 21700 characters,
+and the built_in function-call counts, 384608 in all, are:
+= -- 7774
+> -- 42620
+< -- 55904
++ -- 16023
+- -- 2434
+* -- 2043
+:= -- 53323
+add.period$ -- 257
+call.type$ -- 70
+change.case$ -- 286
+chr.to.int$ -- 14309
+cite$ -- 70
+duplicate$ -- 1628
+empty$ -- 4685
+format.name$ -- 1191
+if$ -- 100999
 int.to.chr$ -- 4
-int.to.str$ -- 63
+int.to.str$ -- 71
 missing$ -- 0
-newline$ -- 372
-num.names$ -- 191
-pop$ -- 16210
+newline$ -- 416
+num.names$ -- 215
+pop$ -- 18938
 preamble$ -- 1
-purify$ -- 62
+purify$ -- 70
 quote$ -- 0
-skip$ -- 34324
+skip$ -- 39791
 stack$ -- 0
-substring$ -- 15395
-swap$ -- 70
-text.length$ -- 727
+substring$ -- 17707
+swap$ -- 78
+text.length$ -- 822
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 728
+type$ -- 832
 warning$ -- 0
-while$ -- 946
+while$ -- 1075
 width$ -- 0
-write$ -- 855
+write$ -- 972
 (There were 7 error messages)
