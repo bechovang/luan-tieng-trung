@@ -1,7 +1,7 @@
 \contentsline {chapter}{摘\hspace {1em}要}{I}{section*.2}%
 \contentsline {chapter}{ABSTRACT}{II}{section*.4}%
-\contentsline {chapter}{插图索引}{V}{section*.8}%
-\contentsline {chapter}{表格索引}{VI}{section*.10}%
+\contentsline {chapter}{插图索引}{VI}{section*.8}%
+\contentsline {chapter}{表格索引}{VII}{section*.10}%
 \contentsline {chapter}{第~1~章\hspace {1em} 引言}{2}{chapter.1}%
 \contentsline {section}{\numberline {1.1}研究背景与选题理由}{2}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}全球背景：质量保障成为必然趋势}{2}{subsection.1.1.1}%
@@ -42,5 +42,10 @@
 \contentsline {section}{\numberline {1.5}方法论与研究方法}{17}{section.1.5}%
 \contentsline {subsection}{\numberline {1.5.1}研究哲学与研究路径 (Research Philosophy and Approach)}{17}{subsection.1.5.1}%
 \contentsline {subsection}{\numberline {1.5.2}研究设计 (Research Design)}{18}{subsection.1.5.2}%
-\contentsline {chapter}{参考文献}{19}{section*.16}%
+\contentsline {subsection}{\numberline {1.5.3}数据收集与分析方法}{19}{subsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.3.1}文献分析法 (Documentary Analysis)}{19}{subsubsection.1.5.3.1}%
+\contentsline {subsubsection}{\numberline {1.5.3.2}历史分析法 (Historical Analysis)}{20}{subsubsection.1.5.3.2}%
+\contentsline {subsubsection}{\numberline {1.5.3.3}比较分析法 (Comparative Analysis)}{20}{subsubsection.1.5.3.3}%
+\contentsline {subsubsection}{\numberline {1.5.3.4}理论综合与模型构建法 (Model Building)}{20}{subsubsection.1.5.3.4}%
+\contentsline {chapter}{参考文献}{22}{section*.16}%
 \contentsfinish 

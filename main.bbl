@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{51}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -318,5 +318,41 @@ CHARMAZ~K.
 \newblock Constructing grounded theory: A practical guide through qualitative
   analysis[M].
 \newblock [S.l.]: SAGE Publications, 2006.
+
+\bibitem[Denzin et~al.(2011)Denzin and Lincoln]{DenzinLincoln2011}
+DENZIN~N~K, LINCOLN~Y~S.
+\newblock Introduction: The discipline and practice of qualitative
+  research[M]//\allowbreak
+DENZIN~N~K, LINCOLN~Y~S.
+\newblock The SAGE Handbook of Qualitative Research.
+\newblock 4th ed.
+\newblock [S.l.]: SAGE Publications, 2011: 1-19.
+
+\bibitem[Bowen(2009)]{Bowen2009}
+BOWEN~G~A.
+\newblock Document analysis as a qualitative research method[J].
+\newblock Qualitative Research Journal, 2009, 9\allowbreak (2): 27-40.
+
+\bibitem[Braun et~al.(2006)Braun and Clarke]{BraunClarke2006}
+BRAUN~V, CLARKE~V.
+\newblock Using thematic analysis in psychology[J].
+\newblock Qualitative Research in Psychology, 2006, 3\allowbreak (2): 77-101.
+
+\bibitem[Tosh(2015)]{Tosh2015}
+TOSH~J.
+\newblock The pursuit of history: Aims, methods and new directions in the study
+  of modern history[M].
+\newblock 6th ed.
+\newblock [S.l.]: Routledge, 2015.
+
+\bibitem[Sartori(1991)]{Sartori1991}
+SARTORI~G.
+\newblock Comparing and miscomparing[J].
+\newblock Journal of Theoretical Politics, 1991, 3\allowbreak (3): 243-257.
+
+\bibitem[Przeworski et~al.(1970)Przeworski and Teune]{PrzeworskiTeune1970}
+PRZEWORSKI~A, TEUNE~H.
+\newblock The logic of comparative social inquiry[M].
+\newblock [S.l.]: Wiley-Interscience, 1970.
 
 \end{thebibliography}
