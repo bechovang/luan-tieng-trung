@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{35}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -198,5 +198,67 @@ ALTBACH~P~G, KNIGHT~J.
 \newblock 2018.
 \newblock
   \url{https://dantri.com.vn/lao-dong-viec-lam/ty-le-that-nghiep-cua-lao-dong-co-trinh-do-dai-hoc-tro-len-van-cao-20181024103130444.htm}.
+
+\bibitem[Kivistö(2008)]{Kivisto2008}
+KIVISTö~J.
+\newblock An assessment of agency theory as a framework for the
+  government-university relationship[J/OL].
+\newblock Journal of Higher Education Policy and Management, 2008,
+  30\allowbreak (4): 339-350.
+\newblock
+  \url{https://research.tuni.fi/app/uploads/2022/10/d80f0fde-kivisto-agency-theory.pdf}.
+
+\bibitem[De~Boer(2019)]{DeBoer2019}
+DE~BOER~H~E~A.
+\newblock A critical reflection on the use of principal-agent theory in public
+  management reform[EB/OL].
+\newblock 2019.
+\newblock
+  \url{https://research.utwente.nl/files/149477034/2019_De_Boer_HEQ_Book_Review_Kelchen.pdf}.
+
+\bibitem[Meyer et~al.(2020)Meyer and Powell]{MeyerPowell2020}
+MEYER~H~D, POWELL~J~J~W.
+\newblock New institutionalism in higher education[EB/OL].
+\newblock 2020.
+\newblock
+  \url{https://orbilu.uni.lu/bitstream/10993/35552/2/MeyerPowell2020_NewInstitutionalismHigherEducation_SAGEEncyclopediaHE.pdf}.
+
+\bibitem[DiMaggio et~al.(1991)DiMaggio and Powell]{DiMaggioPowell1983}
+DIMAGGIO~P~J, POWELL~W~W.
+\newblock The iron cage revisited: Institutional isomorphism and collective
+  rationality in organizational fields[M]//\allowbreak
+POWELL~W~W, DIMAGGIO~P~J.
+\newblock The New Institutionalism in Organizational Analysis.
+\newblock [S.l.]: University of Chicago Press, 1991: 63-82.
+
+\bibitem[Kanwar et~al.(2019)Kanwar, Balasubramanian, and Umar]{Kanwar2019}
+KANWAR~A, BALASUBRAMANIAN~K, UMAR~A.
+\newblock A neo-institutionalist approach to understanding drivers of quality
+  assurance in odl[J/OL].
+\newblock The International Review of Research in Open and Distributed
+  Learning, 2019, 20\allowbreak (4).
+\newblock \url{https://www.irrodl.org/index.php/irrodl/article/view/4117}.
+
+\bibitem[Langrafe et~al.(2020)Langrafe, de~Souza, de~Lima, and
+  da~Costa]{Langrafe2020}
+LANGRAFE~T~F, DE~SOUZA~M~A, DE~LIMA~E~P, et~al.
+\newblock A study on stakeholder engagement in a brazilian higher education
+  institution[J/OL].
+\newblock The Bottom Line, 2020, 33\allowbreak (4): 293-311.
+\newblock
+  \url{https://www.emerald.com/insight/content/doi/10.1108/bl-03-2020-0021/full/html}.
+
+\bibitem[{European University Association}(2018)]{EUA_Integration}
+{European University Association}.
+\newblock Trends 2018: Learning and teaching in the european higher education
+  area[EB/OL].
+\newblock 2018.
+\newblock
+  \url{https://eua.eu/downloads/publications/trends-2018-learning-and-teaching-in-the-european-higher-education-area.pdf}.
+
+\bibitem[Harvey et~al.(2008)Harvey and Stensaker]{HarveyStensaker}
+HARVEY~L, STENSAKER~B.
+\newblock Quality culture: Understandings, boundaries and linkages[J].
+\newblock European Journal of Education, 2008, 43\allowbreak (4): 427-442.
 
 \end{thebibliography}

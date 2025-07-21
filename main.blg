@@ -14,49 +14,69 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: ref/refs.bib
+Repeated entry---line 524 of file ref/refs.bib
+ : @incollection{DiMaggioPowell1983
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 535 of file ref/refs.bib
+ : @misc{MeyerPowell2020
+ :                      ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 553 of file ref/refs.bib
  : @misc{AUN-QAGuide
  :                  ,
 I'm skipping whatever remains of this entry
-You've used 27 entries,
+Repeated entry---line 568 of file ref/refs.bib
+ : @article{Langrafe2020
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 662 of file ref/refs.bib
+ : @misc{EUA_Integration
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 689 of file ref/refs.bib
+ : @misc{HarveyStensaker
+ :                      ,
+I'm skipping whatever remains of this entry
+You've used 35 entries,
             5246 wiz_defined-function locations,
-            1158 strings with 12869 characters,
-and the built_in function-call counts, 112407 in all, are:
-= -- 2664
-> -- 11377
-< -- 15794
-+ -- 4944
-- -- 815
-* -- 664
-:= -- 16036
-add.period$ -- 104
-call.type$ -- 27
-change.case$ -- 71
-chr.to.int$ -- 4342
-cite$ -- 27
-duplicate$ -- 630
-empty$ -- 1925
-format.name$ -- 372
-if$ -- 29601
+            1216 strings with 15039 characters,
+and the built_in function-call counts, 176001 in all, are:
+= -- 3792
+> -- 18841
+< -- 25287
++ -- 7519
+- -- 1201
+* -- 973
+:= -- 24715
+add.period$ -- 135
+call.type$ -- 35
+change.case$ -- 122
+chr.to.int$ -- 6689
+cite$ -- 35
+duplicate$ -- 819
+empty$ -- 2452
+format.name$ -- 567
+if$ -- 46240
 int.to.chr$ -- 3
-int.to.str$ -- 28
+int.to.str$ -- 36
 missing$ -- 0
-newline$ -- 174
-num.names$ -- 83
-pop$ -- 4696
+newline$ -- 222
+num.names$ -- 108
+pop$ -- 8069
 preamble$ -- 1
-purify$ -- 27
+purify$ -- 35
 quote$ -- 0
-skip$ -- 11148
+skip$ -- 17908
 stack$ -- 0
-substring$ -- 5454
-swap$ -- 33
-text.length$ -- 287
+substring$ -- 8308
+swap$ -- 41
+text.length$ -- 400
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 337
+type$ -- 439
 warning$ -- 0
-while$ -- 374
+while$ -- 520
 width$ -- 0
-write$ -- 369
-(There was 1 error message)
+write$ -- 489
+(There were 6 error messages)
