@@ -45,45 +45,45 @@ Repeated entry---line 700 of file ref/refs.bib
  :                           ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "VNU-CEA2023"
-You've used 76 entries,
+You've used 81 entries,
             5246 wiz_defined-function locations,
-            1487 strings with 23128 characters,
-and the built_in function-call counts, 423207 in all, are:
-= -- 8372
-> -- 47117
-< -- 61722
-+ -- 17599
-- -- 2615
-* -- 2192
-:= -- 58534
-add.period$ -- 276
-call.type$ -- 76
-change.case$ -- 310
-chr.to.int$ -- 15739
-cite$ -- 76
-duplicate$ -- 1762
-empty$ -- 5076
-format.name$ -- 1275
-if$ -- 111179
+            1513 strings with 24327 characters,
+and the built_in function-call counts, 465024 in all, are:
+= -- 8997
+> -- 52074
+< -- 68098
++ -- 19323
+- -- 2860
+* -- 2302
+:= -- 64111
+add.period$ -- 291
+call.type$ -- 81
+change.case$ -- 330
+chr.to.int$ -- 17303
+cite$ -- 81
+duplicate$ -- 1872
+empty$ -- 5426
+format.name$ -- 1345
+if$ -- 122208
 int.to.chr$ -- 4
-int.to.str$ -- 77
+int.to.str$ -- 82
 missing$ -- 0
-newline$ -- 447
-num.names$ -- 233
-pop$ -- 20985
+newline$ -- 472
+num.names$ -- 248
+pop$ -- 23464
 preamble$ -- 1
-purify$ -- 76
+purify$ -- 81
 quote$ -- 0
-skip$ -- 43983
+skip$ -- 48340
 stack$ -- 0
-substring$ -- 19410
-swap$ -- 84
-text.length$ -- 886
+substring$ -- 21314
+swap$ -- 89
+text.length$ -- 941
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 894
+type$ -- 949
 warning$ -- 0
-while$ -- 1159
+while$ -- 1229
 width$ -- 0
-write$ -- 1048
+write$ -- 1108
 (There were 7 error messages)

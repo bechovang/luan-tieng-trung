@@ -1,4 +1,4 @@
-\begin{thebibliography}{76}
+\begin{thebibliography}{81}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -515,5 +515,36 @@ SENGE~P~M.
 \newblock The fifth discipline: The art \& practice of the learning
   organization[M].
 \newblock [S.l.]: Doubleday, 2006.
+
+\bibitem[{Various Authors}(2024)]{ChinaEQA_Overview}
+{Various Authors}.
+\newblock China's external quality assurance system for higher education:
+  Institutional roles, recent reforms, and challenges[Z].
+\newblock [S.l.: s.n.], 2024.
+
+\bibitem[{Chinese Ministry of Education}(2015-2024)]{ChinaEQA_Reforms2015}
+{Chinese Ministry of Education}.
+\newblock The double first-class initiative and international integration since
+  2015[Z].
+\newblock [S.l.: s.n.], 2015-2024.
+
+\bibitem[{Various Analysts}(2023)]{ChinaEQA_Ideology2023}
+{Various Analysts}.
+\newblock Ideological control and political integration in chinese higher
+  education governance[Z].
+\newblock [S.l.: s.n.], 2023.
+
+\bibitem[{China Engineering Education Accreditation
+  Association}(2016)]{ChinaEQA_CEEAA_WA}
+{China Engineering Education Accreditation Association}.
+\newblock Professional specialization and the washington accord membership[Z].
+\newblock [S.l.: s.n.], 2016.
+
+\bibitem[{Higher Education Evaluation Centre of the MOE
+  (HEEC)}(2018-2021)]{ChinaEQA_HEEC_Standards}
+{Higher Education Evaluation Centre of the MOE (HEEC)}.
+\newblock National teaching quality standards and five-year evaluation
+  cycles[Z].
+\newblock [S.l.: s.n.], 2018-2021.
 
 \end{thebibliography}

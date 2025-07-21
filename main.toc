@@ -116,5 +116,18 @@
 \contentsline {paragraph}{理论与实践基础：}{46}{subsubsection.2.3.2.5}%
 \contentsline {paragraph}{在越南实践中的指标与表现：}{46}{subsubsection.2.3.2.5}%
 \contentsline {subsection}{\numberline {2.3.3}V-AQA模型的互动与运作分析}{47}{subsection.2.3.3}%
-\contentsline {chapter}{参考文献}{49}{section*.21}%
+\contentsline {subsection}{\numberline {2.3.4}以国际经验审视V-AQA模型}{48}{subsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.4.1}中国案例：国家控制与竞争能力之间的平衡}{48}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{1. 领导与治理：}{49}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{2. 质量文化：}{49}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{3. 利益相关者的参与：}{49}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{4. 内部流程：}{49}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{5. 合作与协调：}{49}{subsubsection.2.3.4.1}%
+\contentsline {subsubsection}{\numberline {2.3.4.2}东盟大学网络质量保障（AUN-QA）案例：多样性中的协调}{50}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{1. 领导与治理：}{50}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{2. 质量文化：}{50}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{3. 利益相关者的参与：}{50}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{4. 内部流程：}{50}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{5. 合作与协调：}{50}{subsubsection.2.3.4.2}%
+\contentsline {chapter}{参考文献}{52}{section*.21}%
 \contentsfinish 
