@@ -3,6 +3,8 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: data/chap1.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: data/chap2.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 The style file: gbt7714-numerical.bst
 Reallocating 'name_of_file' (item size: 1) to 9 items.
@@ -44,7 +46,7 @@ Repeated entry---line 700 of file ref/refs.bib
 I'm skipping whatever remains of this entry
 You've used 54 entries,
             5246 wiz_defined-function locations,
-            1346 strings with 18595 characters,
+            1347 strings with 18609 characters,
 and the built_in function-call counts, 286658 in all, are:
 = -- 5999
 > -- 31325
