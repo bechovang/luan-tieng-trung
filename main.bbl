@@ -1,4 +1,4 @@
-\begin{thebibliography}{54}
+\begin{thebibliography}{62}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -239,12 +239,12 @@ KANWAR~A, BALASUBRAMANIAN~K, UMAR~A.
   Learning, 2019, 20\allowbreak (4).
 \newblock \url{https://www.irrodl.org/index.php/irrodl/article/view/4117}.
 
-\bibitem[Langrafe et~al.(2020)Langrafe, de~Souza, de~Lima, and
+\bibitem[Langrafe et~al.(2020{\natexlab{a}})Langrafe, de~Souza, de~Lima, and
   da~Costa]{Langrafe2020}
 LANGRAFE~T~F, DE~SOUZA~M~A, DE~LIMA~E~P, et~al.
 \newblock A study on stakeholder engagement in a brazilian higher education
   institution[J/OL].
-\newblock The Bottom Line, 2020, 33\allowbreak (4): 293-311.
+\newblock The Bottom Line, 2020{\natexlab{a}}, 33\allowbreak (4): 293-311.
 \newblock
   \url{https://www.emerald.com/insight/content/doi/10.1108/bl-03-2020-0021/full/html}.
 
@@ -375,5 +375,58 @@ HARVEY~L, GREEN~D.
 \newblock The value of accreditation[EB/OL].
 \newblock 2021.
 \newblock \url{https://www.chea.org/value-accreditation}.
+
+\bibitem[{Oxford Research Encyclopedia}(2021)]{OxfordResearch}
+{Oxford Research Encyclopedia}.
+\newblock Theories of governance in higher education[EB/OL].
+\newblock 2021.
+\newblock
+  \url{https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-99}.
+
+\bibitem[Ananyev(2021)]{GovernanceTheories}
+ANANYEV~A~G.
+\newblock Theories of public governance in a comparative context[EB/OL].
+\newblock 2021.
+\newblock
+  \url{https://sgpjournal.mgimo.ru/upload/ckeditor/files/i6-ananyev.pdf}.
+
+\bibitem[Meyer et~al.(2006)Meyer and Rowan]{SAGE_HE}
+MEYER~H, ROWAN~B.
+\newblock The new institutionalism in education[EB/OL].
+\newblock 2006.
+\newblock
+  \url{https://www.sunypress.edu/p-423-the-new-institutionalism-in-edu.aspx}.
+
+\bibitem[Meyer et~al.(1977)Meyer and Rowan]{MeyerRowan1977}
+MEYER~J~W, ROWAN~B.
+\newblock Institutionalized organizations: Formal structure as myth and
+  ceremony[J].
+\newblock American Journal of Sociology, 1977, 83\allowbreak (2): 340-363.
+
+\bibitem[Suchman(1995)]{Suchman1995}
+SUCHMAN~M~C.
+\newblock Managing legitimacy: Strategic and institutional approaches[J].
+\newblock The Academy of Management Review, 1995, 20\allowbreak (3): 571-610.
+
+\bibitem[Freeman(1984)]{Freeman1984}
+FREEMAN~R~E.
+\newblock Strategic management: A stakeholder approach[M].
+\newblock [S.l.]: Cambridge University Press, 1984.
+
+\bibitem[Langrafe(2020{\natexlab{b}})]{LangrafeEUR2020}
+LANGRAFE~T~F~E~A.
+\newblock Stakeholder management in brazilian higher education: the mediating
+  role of information exchange and trust on value creation[EB/OL].
+\newblock 2020{\natexlab{b}}.
+\newblock \url{https://repub.eur.nl/pub/128859/Repub_128859_O-A.pdf}.
+
+\bibitem[Ahmad~Malik(2024)]{IJLTER2024}
+AHMAD~MALIK~M.
+\newblock A systematic literature review of stakeholder theory in education
+  management[J/OL].
+\newblock International Journal of Learning, Teaching and Educational Research,
+  2024.
+\newblock
+  \url{https://www.ijlter.org/index.php/ijlter/article/download/10476/pdf}.
 
 \end{thebibliography}
