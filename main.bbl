@@ -1,4 +1,4 @@
-\begin{thebibliography}{81}
+\begin{thebibliography}{71}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -17,13 +17,6 @@ ALTBACH~P~G.
   development[M].
 \newblock [S.l.]: Greenwood Publishing Group, 2001.
 
-\bibitem[{The World Bank}(2007)]{WB_KnowledgeEconomy}
-{The World Bank}.
-\newblock Building knowledge economies: Advanced strategies for
-  development[EB/OL].
-\newblock 2007.
-\newblock \url{https://openknowledge.worldbank.org/handle/10986/6958}.
-
 \bibitem[{Organisation for Economic Co-operation and
   Development}(2008)]{OECD_HE2008}
 {Organisation for Economic Co-operation and Development}.
@@ -37,13 +30,6 @@ ALTBACH~P~G.
 \newblock The global push for quality in higher education: A look at worldwide
   trends in quality assurance[Z].
 \newblock [S.l.: s.n.], 2021.
-
-\bibitem[{UNESCO International Institute for Educational Planning
-  (IIEP)}(2018)]{UNESCO_QA2018}
-{UNESCO International Institute for Educational Planning (IIEP)}.
-\newblock External quality assurance: facing new challenges[EB/OL].
-\newblock 2018.
-\newblock \url{https://unesdoc.unesco.org/ark:/48223/pf0000265646}.
 
 \bibitem[Trow(2007)]{Trow2007}
 TROW~M.
@@ -105,13 +91,6 @@ ALTBACH~P~G, KNIGHT~J.
 \newblock 2024.
 \newblock
   \url{https://moet.gov.vn/thong-ke/Pages/thong-ko-giao-duc-dai-hoc.aspx}.
-
-\bibitem[{人民代表报}(2024)]{stat_tuyen_sinh_2024_so_lieu}
-{人民代表报}.
-\newblock {2024年大学招生全景}[EB/OL].
-\newblock 2024.
-\newblock
-  \url{https://daibieunhandan.vn/giao-duc/toan-canh-tuyen-sinh-dai-hoc-nam-2024-i364055/}.
 
 \bibitem[{教育与时代报}(2024{\natexlab{a}})]{stat_thi_sinh_2024}
 {教育与时代报}.
@@ -186,11 +165,12 @@ ALTBACH~P~G, KNIGHT~J.
 \newblock
   \url{https://giaoduc.net.vn/nam-2023-cu-100-hoc-sinh-thi-tot-nghiep-thpt-thi-co-53-em-vao-dai-hoc-post241475.gd}.
 
-\bibitem[{统计总局}(2021)]{stat_phan_bo_dia_ly}
-{统计总局}.
-\newblock {按社会经济区域划分的高等教育机构分布}[EB/OL].
-\newblock 2021.
-\newblock \url{https://www.gso.gov.vn/en/category/education/}.
+\bibitem[{人民代表报}(2024)]{stat_tuyen_sinh_2024_so_lieu}
+{人民代表报}.
+\newblock {2024年大学招生全景}[EB/OL].
+\newblock 2024.
+\newblock
+  \url{https://daibieunhandan.vn/giao-duc/toan-canh-tuyen-sinh-dai-hoc-nam-2024-i364055/}.
 
 \bibitem[{民智报}(2018)]{stat_that_nghiep_2018}
 {民智报}.
@@ -208,28 +188,12 @@ KIVISTö~J.
 \newblock
   \url{https://research.tuni.fi/app/uploads/2022/10/d80f0fde-kivisto-agency-theory.pdf}.
 
-\bibitem[De~Boer(2019)]{DeBoer2019}
-DE~BOER~H~E~A.
-\newblock A critical reflection on the use of principal-agent theory in public
-  management reform[EB/OL].
-\newblock 2019.
-\newblock
-  \url{https://research.utwente.nl/files/149477034/2019_De_Boer_HEQ_Book_Review_Kelchen.pdf}.
-
 \bibitem[Meyer et~al.(2020)Meyer and Powell]{MeyerPowell2020}
 MEYER~H~D, POWELL~J~J~W.
 \newblock New institutionalism in higher education[EB/OL].
 \newblock 2020.
 \newblock
   \url{https://orbilu.uni.lu/bitstream/10993/35552/2/MeyerPowell2020_NewInstitutionalismHigherEducation_SAGEEncyclopediaHE.pdf}.
-
-\bibitem[DiMaggio et~al.(1991)DiMaggio and Powell]{DiMaggioPowell1983}
-DIMAGGIO~P~J, POWELL~W~W.
-\newblock The iron cage revisited: Institutional isomorphism and collective
-  rationality in organizational fields[M]//\allowbreak
-POWELL~W~W, DIMAGGIO~P~J.
-\newblock The New Institutionalism in Organizational Analysis.
-\newblock [S.l.]: University of Chicago Press, 1991: 63-82.
 
 \bibitem[Kanwar et~al.(2019)Kanwar, Balasubramanian, and Umar]{Kanwar2019}
 KANWAR~A, BALASUBRAMANIAN~K, UMAR~A.
@@ -256,42 +220,21 @@ LANGRAFE~T~F, DE~SOUZA~M~A, DE~LIMA~E~P, et~al.
 \newblock
   \url{https://eua.eu/downloads/publications/trends-2018-learning-and-teaching-in-the-european-higher-education-area.pdf}.
 
-\bibitem[Harvey et~al.(2008)Harvey and Stensaker]{HarveyStensaker}
-HARVEY~L, STENSAKER~B.
-\newblock Quality culture: Understandings, boundaries and linkages[J].
-\newblock European Journal of Education, 2008, 43\allowbreak (4): 427-442.
-
 \bibitem[黎文江(2003)]{LeVanGiang2003}
 黎文江.
 \newblock {越南教育史}[M].
 \newblock [出版地不详]: 国家政治出版社, 2003.
-
-\bibitem[{教育培训部}(1995)]{MOET_50nam}
-{教育培训部}.
-\newblock {教育培训事业50年发展（1945-1995）}[M].
-\newblock [出版地不详]: 教育出版社, 1995.
 
 \bibitem[陈庆德(2010)]{TranKhanhDuc2010}
 陈庆德.
 \newblock {21世纪的教育与人力资源开发}[M].
 \newblock [出版地不详]: 越南教育出版社, 2010.
 
-\bibitem[阮德政(2002)]{NguyenDucChinh2002}
-阮德政.
-\newblock {高等教育质量评估}[M].
-\newblock [出版地不详]: 河内国家大学出版社, 2002.
-
 \bibitem[Authors(2023)]{VJE_Challenges2023}
 AUTHORS~M.
 \newblock Challenges in implementing quality assurance standards in vietnamese
   higher education institutions[J].
 \newblock Vietnam Journal of Education, 2023.
-
-\bibitem[{Multiple Authors}(2024)]{ExpertPerspectivesVN}
-{Multiple Authors}.
-\newblock Vietnam's higher education quality assurance system: Expert
-  perspectives on challenges and progress[Z].
-\newblock [S.l.: s.n.], 2024.
 
 \bibitem[Creswell et~al.(2018)Creswell and Creswell]{Creswell2018}
 CRESWELL~J~W, CRESWELL~J~D.
@@ -383,25 +326,19 @@ HARVEY~L, GREEN~D.
 \newblock
   \url{https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-99}.
 
-\bibitem[Ananyev(2021)]{GovernanceTheories}
-ANANYEV~A~G.
-\newblock Theories of public governance in a comparative context[EB/OL].
-\newblock 2021.
-\newblock
-  \url{https://sgpjournal.mgimo.ru/upload/ckeditor/files/i6-ananyev.pdf}.
-
-\bibitem[Meyer et~al.(2006)Meyer and Rowan]{SAGE_HE}
-MEYER~H, ROWAN~B.
-\newblock The new institutionalism in education[EB/OL].
-\newblock 2006.
-\newblock
-  \url{https://www.sunypress.edu/p-423-the-new-institutionalism-in-edu.aspx}.
-
 \bibitem[Meyer et~al.(1977)Meyer and Rowan]{MeyerRowan1977}
 MEYER~J~W, ROWAN~B.
 \newblock Institutionalized organizations: Formal structure as myth and
   ceremony[J].
 \newblock American Journal of Sociology, 1977, 83\allowbreak (2): 340-363.
+
+\bibitem[DiMaggio et~al.(1991)DiMaggio and Powell]{DiMaggioPowell1983}
+DIMAGGIO~P~J, POWELL~W~W.
+\newblock The iron cage revisited: Institutional isomorphism and collective
+  rationality in organizational fields[M]//\allowbreak
+POWELL~W~W, DIMAGGIO~P~J.
+\newblock The New Institutionalism in Organizational Analysis.
+\newblock [S.l.]: University of Chicago Press, 1991: 63-82.
 
 \bibitem[Suchman(1995)]{Suchman1995}
 SUCHMAN~M~C.
@@ -419,15 +356,6 @@ LANGRAFE~T~F~E~A.
   role of information exchange and trust on value creation[EB/OL].
 \newblock 2020{\natexlab{b}}.
 \newblock \url{https://repub.eur.nl/pub/128859/Repub_128859_O-A.pdf}.
-
-\bibitem[Ahmad~Malik(2024)]{IJLTER2024}
-AHMAD~MALIK~M.
-\newblock A systematic literature review of stakeholder theory in education
-  management[J/OL].
-\newblock International Journal of Learning, Teaching and Educational Research,
-  2024.
-\newblock
-  \url{https://www.ijlter.org/index.php/ijlter/article/download/10476/pdf}.
 
 \bibitem[Mitchell et~al.(1997)Mitchell, Agle, and Wood]{Mitchell1997}
 MITCHELL~R~K, AGLE~B~R, WOOD~D~J.
@@ -467,17 +395,11 @@ VAN~DER SIJDE~P.
 \newblock
   \url{https://www.eua.eu/publications/conference-papers/integration-of-quality-assurance-systems-in-universities.html}.
 
-\bibitem[{Attico}(2022)]{AdaptiveQA2022}
-{Attico}.
-\newblock What is an adaptive qa system?[EB/OL].
-\newblock 2022.
-\newblock \url{https://attico.io/insights/adaptive-qa-system}.
-
-\bibitem[Nguyen et~al.(2017)Nguyen and Pham]{HangNguyen2017}
-NGUYEN~T~H, PHAM~T~H~T.
-\newblock A hybrid quality assurance model for higher education in vietnam[J].
-\newblock Journal of Southeast Asian Higher Education, 2017, 9\allowbreak (2):
-  45-62.
+\bibitem[{越南河内国家大学-教育质量认证中心}(2023)]{VNUCEA2023}
+{越南河内国家大学-教育质量认证中心}.
+\newblock {关于保障和认证质量工作的年度报告}[EB/OL].
+\newblock 2023.
+\newblock \url{https://cea.vnu.edu.vn}.
 
 \bibitem[Wysocki(2009)]{Wysocki2009}
 WYSOCKI~R~K.
@@ -485,10 +407,15 @@ WYSOCKI~R~K.
   uncertainty[M].
 \newblock [S.l.]: Addison-Wesley Professional, 2009.
 
-\bibitem[{AUN-QA \& VNEQA}(2024)]{CommonFailureCriteria}
-{AUN-QA \& VNEQA}.
-\newblock Common quality assurance failure criteria in vietnamese higher
-  education: Analysis of official reports and assessment data[Z].
+\bibitem[Harvey et~al.(2008)Harvey and Stensaker]{HarveyStensaker}
+HARVEY~L, STENSAKER~B.
+\newblock Quality culture: Understandings, boundaries and linkages[J].
+\newblock European Journal of Education, 2008, 43\allowbreak (4): 427-442.
+
+\bibitem[{Multiple Authors}(2024)]{ExpertPerspectivesVN}
+{Multiple Authors}.
+\newblock Vietnam's higher education quality assurance system: Expert
+  perspectives on challenges and progress[Z].
 \newblock [S.l.: s.n.], 2024.
 
 \bibitem[Arnstein(1969)]{Arnstein1969}
@@ -503,6 +430,12 @@ ARNSTEIN~S~R.
 \newblock Stakeholder involvement in external quality assurance[EB/OL].
 \newblock 2018.
 \newblock \url{https://brill.com/downloadpdf/book/9789462094949/BP000008.pdf}.
+
+\bibitem[{AUN-QA \& VNEQA}(2024)]{CommonFailureCriteria}
+{AUN-QA \& VNEQA}.
+\newblock Common quality assurance failure criteria in vietnamese higher
+  education: Analysis of official reports and assessment data[Z].
+\newblock [S.l.: s.n.], 2024.
 
 \bibitem[Nguyen(2022)]{AUN-QA_Challenges_VN}
 NGUYEN~H.
