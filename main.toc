@@ -301,5 +301,9 @@
 \contentsline {paragraph}{条件一：来自最高层的强有力且持久的政治承诺。}{119}{subsubsection.5.4.2.2}%
 \contentsline {paragraph}{条件二：构建一个系统的变革管理战略。}{119}{subsubsection.5.4.2.2}%
 \contentsline {paragraph}{条件三：对技术基础设施和人的能力进行相应投资。}{120}{subsubsection.5.4.2.2}%
-\contentsline {chapter}{参考文献}{121}{section*.42}%
+\contentsline {section}{\numberline {5.5}研究的局限性与未来研究方向}{120}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}本论文的局限性}{120}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}未来的研究方向}{121}{subsection.5.5.2}%
+\contentsline {section}{总论}{121}{section*.42}%
+\contentsline {chapter}{参考文献}{123}{section*.43}%
 \contentsfinish 
