@@ -202,5 +202,16 @@
 \contentsline {subsection}{\numberline {4.4.1}混合哲学：协调问责制与质量改进}{76}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}适应性原则：在变化背景下的灵活性}{76}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}V-AQA模型的总体结构与要素}{77}{section.4.5}%
-\contentsline {chapter}{参考文献}{80}{section*.33}%
+\contentsline {section}{\numberline {4.6}V-AQA模型的各要素与建议解决方案}{79}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}要素一：以分权和责任为导向重构领导与治理}{80}{subsection.4.6.1}%
+\contentsline {paragraph}{解决方案1.1：制定并执行校级质量战略。}{80}{subsection.4.6.1}%
+\contentsline {paragraph}{解决方案1.2：按“指导核心”模型进行分权并明确授权。}{80}{Item.79}%
+\contentsline {paragraph}{解决方案1.3：提升中层管理团队的能力。}{81}{Item.79}%
+\contentsline {subsection}{\numberline {4.6.2}领导与治理要素的风险分析与缓解方案}{81}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}要素二：从合规文化向改进文化的转型}{82}{subsection.4.6.3}%
+\contentsline {paragraph}{解决方案2.1：基于欧洲大学协会能力框架发起质量文化建设运动。}{82}{subsection.4.6.3}%
+\contentsline {paragraph}{解决方案2.2：建立改进创举的表彰与奖励体系。}{82}{subsection.4.6.3}%
+\contentsline {paragraph}{解决方案2.3：通过“改进小组”为教师赋能并建设其能力。}{83}{subsection.4.6.3}%
+\contentsline {subsection}{\numberline {4.6.4}质量文化要素的风险分析与缓解方案}{83}{subsection.4.6.4}%
+\contentsline {chapter}{参考文献}{85}{section*.33}%
 \contentsfinish 
