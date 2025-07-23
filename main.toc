@@ -184,5 +184,23 @@
 \contentsline {section}{\numberline {3.4}全景图与挑战的系统性互动}{68}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}挑战的互动与恶性循环}{69}{subsection.3.4.1}%
 \contentsline {section}{第三章结论}{70}{section*.29}%
-\contentsline {chapter}{参考文献}{72}{section*.30}%
+\contentsline {chapter}{第~4~章\hspace {1em} 为越南高等教育提出混合与适应性质量保障模型（V-AQA模型）}{72}{chapter.4}%
+\contentsline {section}{\numberline {4.1}引言}{72}{section.4.1}%
+\contentsline {section}{引言}{72}{section.4.1}%
+\contentsline {section}{\numberline {4.2}越南现行质量保障框架的差距分析}{72}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}东盟大学网络质量保障标准}{72}{subsection.4.2.1}%
+\contentsline {paragraph}{优势}{73}{subsection.4.2.1}%
+\contentsline {paragraph}{差距与局限}{73}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}教育培训部的规定}{73}{subsection.4.2.2}%
+\contentsline {paragraph}{优势}{73}{subsection.4.2.2}%
+\contentsline {paragraph}{差距与局限}{73}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}构思-设计-实现-运作能力框架}{74}{subsection.4.2.3}%
+\contentsline {paragraph}{优势}{74}{subsection.4.2.3}%
+\contentsline {paragraph}{差距与局限}{74}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}V-AQA模型的定位：比较优势与优越性}{74}{section.4.3}%
+\contentsline {section}{\numberline {4.4}V-AQA模型的哲学基础与原则}{76}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}混合哲学：协调问责制与质量改进}{76}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}适应性原则：在变化背景下的灵活性}{76}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}V-AQA模型的总体结构与要素}{77}{section.4.5}%
+\contentsline {chapter}{参考文献}{80}{section*.33}%
 \contentsfinish 

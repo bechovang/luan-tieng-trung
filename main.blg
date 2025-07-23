@@ -7,6 +7,8 @@ Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: data/chap2.aux
 Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: data/chap3.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: data/chap4.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 The style file: gbt7714-numerical.bst
 Reallocating 'name_of_file' (item size: 1) to 9 items.
@@ -60,9 +62,21 @@ Warning--entry type for "worldbank_humancapital_2022" isn't style-file defined
 --line 1015 of file ref/refs.bib
 Warning--entry type for "worldbank_improvingperformance_2020" isn't style-file defined
 --line 1022 of file ref/refs.bib
+Warning--I didn't find a database entry for "worldbank_improvingperformance"
+Warning--I didn't find a database entry for "world-bank_improvingperformance"
+Warning--I didn't find a database entry for "pmc_article_9127449"
+Warning--I didn't find a database entry for "vjol_reactiveculture"
+Warning--I didn't find a database entry for "hoasen_benefits_aunqa"
+Warning--I didn't find a database entry for "aun_institutional_v2"
+Warning--I didn't find a database entry for "stdjssh_637"
+Warning--I didn't find a database entry for "ncdt_journal_219"
+Warning--I didn't find a database entry for "vietnamplus_cdio_reform"
+Warning--I didn't find a database entry for "nguyen_cdio_2016"
+Warning--I didn't find a database entry for "harvey_williams_2010"
+Warning--I didn't find a database entry for "uq_kpi_dashboard"
 You've used 101 entries,
             5246 wiz_defined-function locations,
-            1580 strings with 26527 characters,
+            1593 strings with 26784 characters,
 and the built_in function-call counts, 512513 in all, are:
 = -- 11171
 > -- 53941
