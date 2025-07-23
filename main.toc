@@ -146,5 +146,13 @@
 \contentsline {subsection}{\numberline {3.2.1}高等教育质量保障生态系统中的利益相关者图}{54}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}教育培训部：游戏规则的制定者与合规性压力}{55}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}质量认证中心：政策执行与独立性问题}{56}{subsection.3.2.3}%
-\contentsline {chapter}{参考文献}{57}{section*.27}%
+\contentsline {section}{\numberline {3.3}基于V-AQA模型的现状分析}{56}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}要素一：领导与治理的挑战——自主与合规之间}{57}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}自主政策与管理实践的矛盾}{57}{subsubsection.3.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.2}后果：领导层优先级的转移}{57}{subsubsection.3.3.1.2}%
+\contentsline {subsection}{\numberline {3.3.2}要素二：质量文化的挑战——从被动合规到主动改进}{57}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}“反应型质量文化”的定性}{58}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}通过社会信任的波动表现出来}{58}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.3}打破惰性的努力：促进机制的案例研究}{58}{subsubsection.3.3.2.3}%
+\contentsline {chapter}{参考文献}{60}{section*.28}%
 \contentsfinish 

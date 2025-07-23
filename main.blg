@@ -61,9 +61,15 @@ Warning--I didn't find a database entry for "nghi_quyet_29_2013"
 Warning--I didn't find a database entry for "pham2021governance"
 Warning--I didn't find a database entry for "tuoitre_kdcl_stats_2024"
 Warning--I didn't find a database entry for "giaoducnet_kdcl_list_2023"
+Warning--I didn't find a database entry for "lypham_aosat_2024"
+Warning--I didn't find a database entry for "khuyen_bochuquan_2022"
+Warning--I didn't find a database entry for "HarveyStensaker2008"
+Warning--I didn't find a database entry for "vjol_reactiveculture_2021"
+Warning--I didn't find a database entry for "iosr_passiveparticipation_2021"
+Warning--I didn't find a database entry for "hutech_khao_sat_2022"
 You've used 71 entries,
             5246 wiz_defined-function locations,
-            1466 strings with 22644 characters,
+            1473 strings with 22795 characters,
 and the built_in function-call counts, 415959 in all, are:
 = -- 7987
 > -- 46569
