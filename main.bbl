@@ -1,4 +1,4 @@
-\begin{thebibliography}{131}
+\begin{thebibliography}{149}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -642,11 +642,11 @@ C.范 H. T. 和 阮~T.
   在越南高等教育机构实施东盟大学网络质量保障标准的挑战[J].
 \newblock 越南教育科学杂志, 2020, 20\allowbreak (3): 71-80.
 
-\bibitem[{东盟大学网络}(2022)]{aunsec_redesigningIQA_2022}
+\bibitem[{东盟大学网络}(2022{\natexlab{a}})]{aunsec_redesigningIQA_2022}
 {东盟大学网络}.
 \newblock
   通过开发内部质量保障-PDCA循环重新设计大学内部质量保障体系[Z].
-\newblock [出版地不详]: 东盟大学网络秘书处, 2022.
+\newblock [出版地不详]: 东盟大学网络秘书处, 2022{\natexlab{a}}.
 
 \bibitem[{河内国家大学教育质量保障研究院}(2022)]{vnu_qamis_2022}
 {河内国家大学教育质量保障研究院}.
@@ -760,10 +760,11 @@ T.阮 D.T. 和 邓 V. S. 和 黎 H. P. 和 陈 T.~T.
 \newblock IOSR社会科学与人文学科杂志, 2021{\natexlab{b}},
   26\allowbreak (2, Series 4): 01-13.
 
-\bibitem[科特，约翰·P.(1996)]{kotter_leading_change}
+\bibitem[科特，约翰·P.(1996{\natexlab{a}})]{kotter_leading_change}
 科特，约翰·P.
 \newblock 领导变革[M].
-\newblock 马萨诸塞州波士顿: 哈佛商学院出版社, 1996.
+\newblock 马萨诸塞州波士顿: 哈佛商学院出版社,
+  1996{\natexlab{a}}.
 
 \bibitem[{范氏红深 和 阮氏玉碧}(2018{\natexlab{b}})]{vnujs_er_3848}
 {范氏红深 和 阮氏玉碧}.
@@ -826,5 +827,105 @@ T.阮 D.T. 和 邓 V. S. 和 黎 H. P. 和 陈 T.~T.
 \newblock
   越南高等教育改革议程：应对第四次工业革命和高收入经济体的需求[Z].
 \newblock [出版地不详: 出版者不详], 2021.
+
+\bibitem[{河映}(2024)]{thanhnien_quymo_2024}
+{河映}.
+\newblock 2023-2024学年高等教育规模增加超过30万学生[Z].
+\newblock [出版地不详: 出版者不详], 2024.
+
+\bibitem[{丽秋}(2025)]{dantri_kiemdinh_2025}
+{丽秋}.
+\newblock 公布208所高等教育机构达到质量认证标准[Z].
+\newblock [出版地不详: 出版者不详], 2025.
+
+\bibitem[{国民经济大学政治工作与学生管理处}(2023)]{neu_tylevieclam}
+{国民经济大学政治工作与学生管理处}.
+\newblock
+  受过培训并持有文凭、证书的劳动者比例仅达26.1\%是一个警报[Z].
+\newblock [出版地不详: 出版者不详], 2023.
+
+\bibitem[{东盟大学网络}(2022{\natexlab{b}})]{aunsec_redesigningIQA}
+{东盟大学网络}.
+\newblock
+  通过开发内部质量保障-PDCA循环重新设计大学内部质量保障体系[Z].
+\newblock [出版地不详]: 东盟大学网络秘书处, 2022{\natexlab{b}}.
+
+\bibitem[{世界银行}(2019)]{WB_TransitionalQA}
+{世界银行}.
+\newblock
+  转型期经济体高等教育的质量保障：挑战与政策框架[R].
+\newblock [出版地不详]: 世界银行教育小组, 2019.
+
+\bibitem[{经济合作与发展组织}(2022)]{OECD_PolicyToAction}
+{经济合作与发展组织}.
+\newblock 从政策到行动：实施高等教育改革的实践指南[R].
+\newblock 巴黎: 经济合作与发展组织出版社, 2022.
+
+\bibitem[{教育培训部}(2017)]{tt12_2017_bgddt}
+{教育培训部}.
+\newblock
+  颁布关于高等教育机构质量认证规定的第12/2017/TT-BGDĐT号通知[Z].
+\newblock [出版地不详: 出版者不详], 2017.
+
+\bibitem[{越南法律}(2018)]{luatvn_gddh_2018}
+{越南法律}.
+\newblock 2018年高等教育法若干条款补充修订法[Z].
+\newblock [出版地不详: 出版者不详], 2018.
+
+\bibitem[{经济合作与发展组织}(2021)]{oecd_pbf_2021}
+{经济合作与发展组织}.
+\newblock 为高等教育机构的公共研究提供基于绩效的资金[Z].
+\newblock 巴黎: 经济合作与发展组织出版社, 2021.
+
+\bibitem[{法律图书馆}(2024)]{thuvienphapluat_11truong_quocte}
+{法律图书馆}.
+\newblock
+  越南有11所大学达到国外认证标准（截至2024年7月）[Z].
+\newblock [出版地不详: 出版者不详], 2024.
+
+\bibitem[{越南法律}(2024)]{luatvietnam_tt25_2024}
+{越南法律}.
+\newblock
+  关于教育行业统计报告制度的第25/2024/TT-BGDĐT号通知[Z].
+\newblock [出版地不详: 出版者不详], 2024.
+
+\bibitem[{工程技术认证委员会}(2023-2024)]{abet_criteria}
+{工程技术认证委员会}.
+\newblock 工程项目认证标准[M].
+\newblock 美国马里兰州巴尔的摩: 工程技术认证委员会,
+  2023-2024.
+
+\bibitem[{美国高校信息技术协会}(2022)]{educause_bi_2022}
+{美国高校信息技术协会}.
+\newblock 2022年高等教育数据分析景观[R].
+\newblock 科罗拉多州路易维尔: 美国高校信息技术协会, 2022.
+
+\bibitem[{欧洲大学协会}(2023)]{eua_autonomy_qa}
+{欧洲大学协会}.
+\newblock 欧洲大学自主IV：记分卡[R].
+\newblock 布鲁塞尔: 欧洲大学协会, 2023.
+
+\bibitem[科兹纳，哈罗德(2017)]{kerzner_pm_2017}
+科兹纳，哈罗德.
+\newblock
+  项目管理：一种用于规划、调度和控制的系统方法[M].
+\newblock 第12版.
+\newblock [出版地不详]: 威利出版社, 2017.
+
+\bibitem[科特，约翰·P.(1996{\natexlab{b}})]{kotter_1996}
+科特，约翰·P.
+\newblock 领导变革[M].
+\newblock 马萨诸塞州波士顿: 哈佛商学院出版社,
+  1996{\natexlab{b}}.
+
+\bibitem[{欧洲大学协会}(2019)]{eua_iqa_eqa_link}
+{欧洲大学协会}.
+\newblock 内部与外部质量保障之间的联系[R].
+\newblock 布鲁塞尔: 欧洲大学协会, 2019.
+
+\bibitem[{高等教育认证委员会}(2020)]{CHEA_prof_acreditation}
+{高等教育认证委员会}.
+\newblock 专业认证的角色与价值[Z].
+\newblock [出版地不详: 出版者不详], 2020.
 
 \end{thebibliography}

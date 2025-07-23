@@ -290,7 +290,7 @@
 \contentsline {paragraph}{关键绩效指标：}{115}{Item.117}%
 \contentsline {subsubsection}{\numberline {5.3.2.5}建议2.4与2.5：流程现代化与数据基础设施建设}{115}{subsubsection.5.3.2.5}%
 \contentsline {paragraph}{论据：}{115}{subsubsection.5.3.2.5}%
-\contentsline {paragraph}{具体行动1：按照成果导向教育理念标准化培养方案开发流程。}{115}{subsubsection.5.3.2.5}%
+\contentsline {paragraph}{具体行动1：按照成果导向教育理念标准化培养方案开发流程。}{116}{subsubsection.5.3.2.5}%
 \contentsline {paragraph}{具体行动2：构建集成的质量保障管理信息系统。}{116}{Item.122}%
 \contentsline {paragraph}{关键绩效指标：}{116}{Item.122}%
 \contentsline {section}{\numberline {5.4}讨论：挑战、条件与前景}{117}{section.5.4}%
