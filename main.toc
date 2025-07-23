@@ -238,5 +238,20 @@
 \contentsline {paragraph}{全面性与系统性}{99}{section*.37}%
 \contentsline {paragraph}{混合性与适应性}{99}{section*.37}%
 \contentsline {paragraph}{可行性与可衡量性}{100}{section*.37}%
-\contentsline {chapter}{参考文献}{101}{section*.39}%
+\contentsline {chapter}{第~5~章\hspace {1em} 结论与建议}{101}{chapter.5}%
+\contentsline {section}{\numberline {5.1}主要研究成果总结与论文定位}{101}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}现状分析的核心发现总结}{101}{subsection.5.1.1}%
+\contentsline {paragraph}{论点一：规模上的成就与广泛的合规性。}{101}{subsection.5.1.1}%
+\contentsline {paragraph}{论点二：“质量悖论”与系统性“恶性循环”的存在。}{101}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}基于V-AQA模型对核心挑战进行系统化梳理}{102}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}本论文的新贡献}{103}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}理论贡献}{103}{subsection.5.2.1}%
+\contentsline {paragraph}{首先，本论文指出了在复杂背景下应用单一理论的局限性。}{103}{subsection.5.2.1}%
+\contentsline {paragraph}{其次，本论文成功构建了一个多维度、系统的分析模型。}{104}{subsection.5.2.1}%
+\contentsline {paragraph}{第三，V-AQA模型在分析转型期国家高等教育体系方面具有特殊的理论价值。}{104}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}实践贡献}{105}{subsection.5.2.2}%
+\contentsline {paragraph}{首先，本论文提供了一个系统性诊断工具，用以识别核心“瓶颈”。}{105}{subsection.5.2.2}%
+\contentsline {paragraph}{其次，本论文构建了一份全面且可行的“行动手册”。}{105}{subsection.5.2.2}%
+\contentsline {paragraph}{第三，本论文提供了一个协调的视角，帮助越南各校在一体化背景下定位。}{106}{subsection.5.2.2}%
+\contentsline {chapter}{参考文献}{107}{section*.41}%
 \contentsfinish 

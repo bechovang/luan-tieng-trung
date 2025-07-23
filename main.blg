@@ -9,6 +9,8 @@ Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: data/chap3.aux
 Reallocating 'name_of_file' (item size: 1) to 15 items.
 A level-1 auxiliary file: data/chap4.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: data/chap5.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 The style file: gbt7714-numerical.bst
 Reallocating 'name_of_file' (item size: 1) to 9 items.
@@ -66,47 +68,51 @@ Warning--entry type for "unesco_gem_report_2024" isn't style-file defined
 --line 1212 of file ref/refs.bib
 Warning--entry type for "worldbank_improvingperformance" isn't style-file defined
 --line 1260 of file ref/refs.bib
-Warning--entry type for "worldbank_reform_agenda" isn't style-file defined
---line 1267 of file ref/refs.bib
-You've used 131 entries,
+Warning--I didn't find a database entry for "thanhnien_quymo_2024"
+Warning--I didn't find a database entry for "dantri_kiemdinh_2025"
+Warning--I didn't find a database entry for "neu_tylevieclam"
+Warning--I didn't find a database entry for "aunsec_redesigningIQA"
+Warning--I didn't find a database entry for "WB_TransitionalQA"
+Warning--I didn't find a database entry for "OECD_PolicyToAction"
+You've used 121 entries,
             5246 wiz_defined-function locations,
-            1695 strings with 30468 characters,
-and the built_in function-call counts, 614247 in all, are:
-= -- 14465
-> -- 61820
-< -- 88806
-+ -- 28638
-- -- 4783
-* -- 3523
-:= -- 87964
-add.period$ -- 435
-call.type$ -- 131
-change.case$ -- 352
-chr.to.int$ -- 25367
-cite$ -- 131
-duplicate$ -- 2989
-empty$ -- 8657
-format.name$ -- 1909
-if$ -- 159821
-int.to.chr$ -- 13
-int.to.str$ -- 132
+            1665 strings with 29174 characters,
+and the built_in function-call counts, 584024 in all, are:
+= -- 13381
+> -- 59644
+< -- 84669
++ -- 26877
+- -- 4420
+* -- 3281
+:= -- 83246
+add.period$ -- 405
+call.type$ -- 121
+change.case$ -- 342
+chr.to.int$ -- 23870
+cite$ -- 121
+duplicate$ -- 2766
+empty$ -- 8013
+format.name$ -- 1789
+if$ -- 152115
+int.to.chr$ -- 11
+int.to.str$ -- 122
 missing$ -- 0
-newline$ -- 717
-num.names$ -- 398
-pop$ -- 23333
+newline$ -- 667
+num.names$ -- 368
+pop$ -- 22969
 preamble$ -- 1
-purify$ -- 131
+purify$ -- 121
 quote$ -- 0
-skip$ -- 60765
+skip$ -- 58262
 stack$ -- 0
-substring$ -- 32131
-swap$ -- 157
-text.length$ -- 1471
+substring$ -- 30110
+swap$ -- 143
+text.length$ -- 1364
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1513
+type$ -- 1401
 warning$ -- 0
-while$ -- 1938
+while$ -- 1797
 width$ -- 0
-write$ -- 1756
+write$ -- 1628
 (There were 8 error messages)
