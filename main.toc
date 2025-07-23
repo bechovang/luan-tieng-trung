@@ -1,7 +1,7 @@
 \contentsline {chapter}{摘\hspace {1em}要}{I}{section*.2}%
 \contentsline {chapter}{ABSTRACT}{III}{section*.4}%
-\contentsline {chapter}{插图索引}{XI}{section*.8}%
-\contentsline {chapter}{表格索引}{XII}{section*.10}%
+\contentsline {chapter}{插图索引}{XII}{section*.8}%
+\contentsline {chapter}{表格索引}{XIII}{section*.10}%
 \contentsline {chapter}{第~1~章\hspace {1em} 引言}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}研究背景与选题理由}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}全球背景：质量保障成为必然趋势}{1}{subsection.1.1.1}%
@@ -242,7 +242,7 @@
 \contentsline {section}{\numberline {5.1}主要研究成果总结与论文定位}{101}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}现状分析的核心发现总结}{101}{subsection.5.1.1}%
 \contentsline {paragraph}{论点一：规模上的成就与广泛的合规性。}{101}{subsection.5.1.1}%
-\contentsline {paragraph}{论点二：“质量悖论”与系统性“恶性循环”的存在。}{101}{subsection.5.1.1}%
+\contentsline {paragraph}{论点二："质量悖论"与系统性"恶性循环"的存在。}{101}{subsection.5.1.1}%
 \contentsline {subsection}{\numberline {5.1.2}基于V-AQA模型对核心挑战进行系统化梳理}{102}{subsection.5.1.2}%
 \contentsline {section}{\numberline {5.2}本论文的新贡献}{103}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}理论贡献}{103}{subsection.5.2.1}%
@@ -250,35 +250,56 @@
 \contentsline {paragraph}{其次，本论文成功构建了一个多维度、系统的分析模型。}{104}{subsection.5.2.1}%
 \contentsline {paragraph}{第三，V-AQA模型在分析转型期国家高等教育体系方面具有特殊的理论价值。}{104}{subsection.5.2.1}%
 \contentsline {subsection}{\numberline {5.2.2}实践贡献}{105}{subsection.5.2.2}%
-\contentsline {paragraph}{首先，本论文提供了一个系统性诊断工具，用以识别核心“瓶颈”。}{105}{subsection.5.2.2}%
-\contentsline {paragraph}{其次，本论文构建了一份全面且可行的“行动手册”。}{105}{subsection.5.2.2}%
-\contentsline {paragraph}{第三，本论文提供了一个协调的视角，帮助越南各校在一体化背景下定位。}{106}{subsection.5.2.2}%
+\contentsline {paragraph}{首先，本论文提供了一个系统性诊断工具，用以识别核心"瓶颈"。}{105}{subsection.5.2.2}%
+\contentsline {paragraph}{其次，本论文构建了一份全面且可行的"行动手册"。}{105}{subsection.5.2.2}%
+\contentsline {paragraph}{第三，本论文提供了一个协调的视角，帮助越南各校在一体化背景下定位。}{105}{subsection.5.2.2}%
 \contentsline {section}{\numberline {5.3}旨在完善越南高等教育质量保障体系的建议体系}{106}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}对国家管理机构的建议}{108}{subsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.1.1}建议1.1：将角色从“微观控制者”转变为“环境创造者和宏观调控者”}{108}{subsubsection.5.3.1.1}%
+\contentsline {subsection}{\numberline {5.3.1}对国家管理机构的建议}{107}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}建议1.1：将角色从"微观控制者"转变为"环境创造者和宏观调控者"}{108}{subsubsection.5.3.1.1}%
 \contentsline {paragraph}{论据：}{108}{subsubsection.5.3.1.1}%
 \contentsline {paragraph}{具体行动：}{108}{subsubsection.5.3.1.1}%
-\contentsline {paragraph}{关键绩效指标：}{109}{Item.96}%
+\contentsline {paragraph}{关键绩效指标：}{108}{Item.96}%
 \contentsline {subsubsection}{\numberline {5.3.1.2}建议1.2：推动基于绩效的拨款机制}{109}{subsubsection.5.3.1.2}%
 \contentsline {paragraph}{论据：}{109}{subsubsection.5.3.1.2}%
 \contentsline {paragraph}{具体行动：}{109}{subsubsection.5.3.1.2}%
-\contentsline {paragraph}{关键绩效指标：}{110}{Item.99}%
+\contentsline {paragraph}{关键绩效指标：}{109}{Item.99}%
 \contentsline {subsubsection}{\numberline {5.3.1.3}建议1.3：促进一个多样化和竞争性的质量保障生态系统}{110}{subsubsection.5.3.1.3}%
 \contentsline {paragraph}{论据：}{110}{subsubsection.5.3.1.3}%
 \contentsline {paragraph}{具体行动：}{110}{subsubsection.5.3.1.3}%
-\contentsline {paragraph}{关键绩效指标：}{111}{Item.102}%
+\contentsline {paragraph}{关键绩效指标：}{110}{Item.102}%
 \contentsline {subsubsection}{\numberline {5.3.1.4}建议1.4：战略性投资建设集成的国家高等教育数据系统}{111}{subsubsection.5.3.1.4}%
 \contentsline {paragraph}{论据：}{111}{subsubsection.5.3.1.4}%
 \contentsline {paragraph}{具体行动：}{111}{subsubsection.5.3.1.4}%
-\contentsline {paragraph}{关键绩效指标：}{112}{Item.106}%
+\contentsline {paragraph}{关键绩效指标：}{111}{Item.106}%
 \contentsline {subsection}{\numberline {5.3.2}对高等教育机构的建议}{112}{subsection.5.3.2}%
-\contentsline {subsubsection}{\numberline {5.3.2.1}建议2.1：重构领导与治理——从“控制者”转变为“环境创造者”}{112}{subsubsection.5.3.2.1}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}建议2.1：重构领导与治理——从"控制者"转变为"环境创造者"}{112}{subsubsection.5.3.2.1}%
 \contentsline {paragraph}{论据：}{112}{subsubsection.5.3.2.1}%
 \contentsline {paragraph}{具体行动：}{112}{subsubsection.5.3.2.1}%
-\contentsline {paragraph}{关键绩效指标：}{113}{Item.109}%
-\contentsline {subsubsection}{\numberline {5.3.2.2}建议2.2：塑造质量文化——从“应付”到“主动”}{113}{subsubsection.5.3.2.2}%
+\contentsline {paragraph}{关键绩效指标：}{112}{Item.109}%
+\contentsline {subsubsection}{\numberline {5.3.2.2}建议2.2：塑造质量文化——从"应付"到"主动"}{113}{subsubsection.5.3.2.2}%
 \contentsline {paragraph}{论据：}{113}{subsubsection.5.3.2.2}%
 \contentsline {paragraph}{具体行动：}{113}{subsubsection.5.3.2.2}%
 \contentsline {paragraph}{关键绩效指标：}{113}{Item.112}%
-\contentsline {chapter}{参考文献}{115}{section*.41}%
+\contentsline {subsubsection}{\numberline {5.3.2.3}建议2.3：将利益相关者从"咨询对象"转变为"战略伙伴"}{113}{subsubsection.5.3.2.3}%
+\contentsline {paragraph}{论据：}{113}{subsubsection.5.3.2.3}%
+\contentsline {paragraph}{具体行动：}{114}{subsubsection.5.3.2.3}%
+\contentsline {paragraph}{关键绩效指标：}{114}{Item.114}%
+\contentsline {subsubsection}{\numberline {5.3.2.4}建议2.6：通过合作与比对打破"筒仓思维"}{114}{subsubsection.5.3.2.4}%
+\contentsline {paragraph}{论据：}{114}{subsubsection.5.3.2.4}%
+\contentsline {paragraph}{具体行动：}{115}{subsubsection.5.3.2.4}%
+\contentsline {paragraph}{关键绩效指标：}{115}{Item.117}%
+\contentsline {subsubsection}{\numberline {5.3.2.5}建议2.4与2.5：流程现代化与数据基础设施建设}{115}{subsubsection.5.3.2.5}%
+\contentsline {paragraph}{论据：}{115}{subsubsection.5.3.2.5}%
+\contentsline {paragraph}{具体行动1：按照成果导向教育理念标准化培养方案开发流程。}{115}{subsubsection.5.3.2.5}%
+\contentsline {paragraph}{具体行动2：构建集成的质量保障管理信息系统。}{116}{Item.122}%
+\contentsline {paragraph}{关键绩效指标：}{116}{Item.122}%
+\contentsline {section}{\numberline {5.4}讨论：挑战、条件与前景}{117}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}大学自主：一个有效质量保障体系的先决条件}{117}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}风险分析与成功条件}{117}{subsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.2.1}风险分析与应对矩阵}{118}{subsubsection.5.4.2.1}%
+\contentsline {subsubsection}{\numberline {5.4.2.2}成功条件的深入分析}{119}{subsubsection.5.4.2.2}%
+\contentsline {paragraph}{条件一：来自最高层的强有力且持久的政治承诺。}{119}{subsubsection.5.4.2.2}%
+\contentsline {paragraph}{条件二：构建一个系统的变革管理战略。}{119}{subsubsection.5.4.2.2}%
+\contentsline {paragraph}{条件三：对技术基础设施和人的能力进行相应投资。}{120}{subsubsection.5.4.2.2}%
+\contentsline {chapter}{参考文献}{121}{section*.42}%
 \contentsfinish 
