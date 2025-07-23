@@ -21,7 +21,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'field_info' (item size: 4) to 10040 items.
+Reallocating 'field_info' (item size: 4) to 10112 items.
 Database file #1: ref/refs.bib
 Repeated entry---line 524 of file ref/refs.bib
  : @incollection{DiMaggioPowell1983
@@ -80,9 +80,11 @@ Warning--I didn't find a database entry for "OECD_PolicyToAction"
 Warning--I didn't find a database entry for "tt12_2017_bgddt"
 Warning--I didn't find a database entry for "luatvn_gddh_2018"
 Warning--I didn't find a database entry for "oecd_pbf_2021"
+Warning--I didn't find a database entry for "thuvienphapluat_11truong_quocte"
+Warning--I didn't find a database entry for "luatvietnam_tt25_2024"
 You've used 131 entries,
             5246 wiz_defined-function locations,
-            1708 strings with 30695 characters,
+            1710 strings with 30747 characters,
 and the built_in function-call counts, 614247 in all, are:
 = -- 14465
 > -- 61820

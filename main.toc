@@ -263,5 +263,22 @@
 \contentsline {paragraph}{论据：}{109}{subsubsection.5.3.1.2}%
 \contentsline {paragraph}{具体行动：}{109}{subsubsection.5.3.1.2}%
 \contentsline {paragraph}{关键绩效指标：}{110}{Item.99}%
-\contentsline {chapter}{参考文献}{111}{section*.41}%
+\contentsline {subsubsection}{\numberline {5.3.1.3}建议1.3：促进一个多样化和竞争性的质量保障生态系统}{110}{subsubsection.5.3.1.3}%
+\contentsline {paragraph}{论据：}{110}{subsubsection.5.3.1.3}%
+\contentsline {paragraph}{具体行动：}{110}{subsubsection.5.3.1.3}%
+\contentsline {paragraph}{关键绩效指标：}{111}{Item.102}%
+\contentsline {subsubsection}{\numberline {5.3.1.4}建议1.4：战略性投资建设集成的国家高等教育数据系统}{111}{subsubsection.5.3.1.4}%
+\contentsline {paragraph}{论据：}{111}{subsubsection.5.3.1.4}%
+\contentsline {paragraph}{具体行动：}{111}{subsubsection.5.3.1.4}%
+\contentsline {paragraph}{关键绩效指标：}{112}{Item.106}%
+\contentsline {subsection}{\numberline {5.3.2}对高等教育机构的建议}{112}{subsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}建议2.1：重构领导与治理——从“控制者”转变为“环境创造者”}{112}{subsubsection.5.3.2.1}%
+\contentsline {paragraph}{论据：}{112}{subsubsection.5.3.2.1}%
+\contentsline {paragraph}{具体行动：}{112}{subsubsection.5.3.2.1}%
+\contentsline {paragraph}{关键绩效指标：}{113}{Item.109}%
+\contentsline {subsubsection}{\numberline {5.3.2.2}建议2.2：塑造质量文化——从“应付”到“主动”}{113}{subsubsection.5.3.2.2}%
+\contentsline {paragraph}{论据：}{113}{subsubsection.5.3.2.2}%
+\contentsline {paragraph}{具体行动：}{113}{subsubsection.5.3.2.2}%
+\contentsline {paragraph}{关键绩效指标：}{113}{Item.112}%
+\contentsline {chapter}{参考文献}{115}{section*.41}%
 \contentsfinish 
