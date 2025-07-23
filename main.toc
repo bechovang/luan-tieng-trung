@@ -225,5 +225,18 @@
 \contentsline {paragraph}{建议的系统架构。}{89}{subsubsection.4.6.8.1}%
 \contentsline {paragraph}{输出产品：智能报告与仪表盘。}{90}{figure.caption.33}%
 \contentsline {subsection}{\numberline {4.6.9}质量保障管理信息系统的风险分析与缓解方案}{91}{subsection.4.6.9}%
-\contentsline {chapter}{参考文献}{92}{section*.37}%
+\contentsline {subsection}{\numberline {4.6.10}要素五：构建一个开放的质量生态系统}{91}{subsection.4.6.10}%
+\contentsline {paragraph}{解决方案5.1：通过跨学科改进项目促进内部合作。}{92}{subsection.4.6.10}%
+\contentsline {paragraph}{解决方案5.2：建立校际标杆比对网络。}{92}{subsection.4.6.10}%
+\contentsline {paragraph}{解决方案5.3：战略性地利用国际合作。}{92}{subsection.4.6.10}%
+\contentsline {subsection}{\numberline {4.6.11}合作与协调要素的风险分析与缓解方案}{93}{subsection.4.6.11}%
+\contentsline {section}{\numberline {4.7}V-AQA模型的实施路线图与条件}{94}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}分阶段实施路线图建议}{94}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}成功的先决条件}{97}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}总体风险管理策略}{98}{subsection.4.7.3}%
+\contentsline {section}{第四章结论}{99}{section*.37}%
+\contentsline {paragraph}{全面性与系统性}{99}{section*.37}%
+\contentsline {paragraph}{混合性与适应性}{99}{section*.37}%
+\contentsline {paragraph}{可行性与可衡量性}{100}{section*.37}%
+\contentsline {chapter}{参考文献}{101}{section*.39}%
 \contentsfinish 

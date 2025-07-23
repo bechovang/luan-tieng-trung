@@ -90,9 +90,12 @@ Warning--I didn't find a database entry for "biggs_constructive_alignment"
 Warning--I didn't find a database entry for "moet_digital_transformation"
 Warning--I didn't find a database entry for "seaairweb_journal_v22"
 Warning--I didn't find a database entry for "enqa_forum_report_201X"
+Warning--I didn't find a database entry for "jackson_lund_2000"
+Warning--I didn't find a database entry for "worldbank_sahep"
+Warning--I didn't find a database entry for "worldbank_reform_agenda"
 You've used 101 entries,
             5246 wiz_defined-function locations,
-            1610 strings with 27116 characters,
+            1613 strings with 27171 characters,
 and the built_in function-call counts, 512513 in all, are:
 = -- 11171
 > -- 53941
