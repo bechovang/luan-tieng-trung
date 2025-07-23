@@ -1,7 +1,7 @@
 \contentsline {chapter}{摘\hspace {1em}要}{I}{section*.2}%
 \contentsline {chapter}{ABSTRACT}{III}{section*.4}%
-\contentsline {chapter}{插图索引}{IX}{section*.8}%
-\contentsline {chapter}{表格索引}{X}{section*.10}%
+\contentsline {chapter}{插图索引}{X}{section*.8}%
+\contentsline {chapter}{表格索引}{XI}{section*.10}%
 \contentsline {chapter}{第~1~章\hspace {1em} 引言}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}研究背景与选题理由}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}全球背景：质量保障成为必然趋势}{1}{subsection.1.1.1}%
@@ -154,5 +154,20 @@
 \contentsline {subsubsection}{\numberline {3.3.2.1}“反应型质量文化”的定性}{58}{subsubsection.3.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.3.2.2}通过社会信任的波动表现出来}{58}{subsubsection.3.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.3.2.3}打破惰性的努力：促进机制的案例研究}{58}{subsubsection.3.3.2.3}%
-\contentsline {chapter}{参考文献}{60}{section*.28}%
+\contentsline {subsection}{\numberline {3.3.3}要素三：利益相关者参与的挑战——“象牙塔”与市场之间的鸿沟}{59}{subsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.3.1}有限且形式化参与的表现}{59}{subsubsection.3.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.3.2}通过阿恩斯坦参与阶梯分析参与程度}{60}{subsubsection.3.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.4}要素五：合作与协调的挑战——被孤立的“孤岛”}{60}{subsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.4.1}第一层面：内部合作——组织内的碎片化}{61}{subsubsection.3.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.3.4.2}第二层面：校际合作——竞争压倒合作}{61}{subsubsection.3.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.3.4.3}第三层面：与社会合作——松散的联系}{61}{subsubsection.3.3.4.3}%
+\contentsline {subsection}{\numberline {3.3.5}打破象牙塔壁垒的先锋模型}{62}{subsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.5.1}行业咨询委员会模型：从咨询到共同创造}{62}{subsubsection.3.3.5.1}%
+\contentsline {paragraph}{BUILD-IT联盟与工科院校群的案例研究。}{62}{subsubsection.3.3.5.1}%
+\contentsline {paragraph}{越南皇家墨尔本理工大学的案例研究。}{62}{subsubsection.3.3.5.1}%
+\contentsline {paragraph}{VinUni大学的案例研究。}{63}{subsubsection.3.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.3.5.2}其他深度合作模型}{63}{subsubsection.3.3.5.2}%
+\contentsline {paragraph}{公私合作伙伴关系模型在研究与培养中的应用。}{63}{subsubsection.3.3.5.2}%
+\contentsline {paragraph}{企业学期模型。}{64}{subsubsection.3.3.5.2}%
+\contentsline {chapter}{参考文献}{65}{section*.28}%
 \contentsfinish 
