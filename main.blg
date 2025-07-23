@@ -50,75 +50,55 @@ Repeated entry---line 784 of file ref/refs.bib
  : @misc{VNUCEA2023
  :                 ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "sggp_en_3million_2030"
-Warning--I didn't find a database entry for "worldbank_humancapital_2022"
-Warning--I didn't find a database entry for "worldbank_p178112"
-Warning--I didn't find a database entry for "worldbank_improvingperformance_2020"
-Warning--I didn't find a database entry for "vietnamnews_unemployed_2017"
-Warning--I didn't find a database entry for "britishcouncil_grad_employability_2021"
-Warning--I didn't find a database entry for "britishcouncil_skills_gap_2021"
-Warning--I didn't find a database entry for "nghi_quyet_29_2013"
-Warning--I didn't find a database entry for "pham2021governance"
-Warning--I didn't find a database entry for "tuoitre_kdcl_stats_2024"
-Warning--I didn't find a database entry for "giaoducnet_kdcl_list_2023"
-Warning--I didn't find a database entry for "lypham_aosat_2024"
-Warning--I didn't find a database entry for "khuyen_bochuquan_2022"
-Warning--I didn't find a database entry for "HarveyStensaker2008"
-Warning--I didn't find a database entry for "vjol_reactiveculture_2021"
-Warning--I didn't find a database entry for "iosr_passiveparticipation_2021"
-Warning--I didn't find a database entry for "hutech_khao_sat_2022"
-Warning--I didn't find a database entry for "vnujs_er_2018"
-Warning--I didn't find a database entry for "vje_aun_implementation_2019"
-Warning--I didn't find a database entry for "rmit_iab_2023"
-Warning--I didn't find a database entry for "buildit_iab_impact"
-Warning--I didn't find a database entry for "vinuni_industry_collaboration_2023"
-Warning--I didn't find a database entry for "vnuhcm_ppp_2022"
-Warning--I didn't find a database entry for "vnujs_pam_2019"
-Warning--I didn't find a database entry for "ijlter_elo_copy_2021"
-Warning--I didn't find a database entry for "Biggs2011"
-Warning--I didn't find a database entry for "csph_iqa_2023"
-Warning--I didn't find a database entry for "vjes_challenges_aun_2020"
-Warning--I didn't find a database entry for "aunsec_redesigningIQA_2022"
-Warning--I didn't find a database entry for "vnu_qamis_2022"
-You've used 71 entries,
+Warning--entry type for "aunsec_redesigningIQA_2022" isn't style-file defined
+--line 812 of file ref/refs.bib
+Warning--entry type for "britishcouncil_skills_gap_2021" isn't style-file defined
+--line 827 of file ref/refs.bib
+Warning--entry type for "buildit_iab_impact" isn't style-file defined
+--line 834 of file ref/refs.bib
+Warning--entry type for "worldbank_humancapital_2022" isn't style-file defined
+--line 1015 of file ref/refs.bib
+Warning--entry type for "worldbank_improvingperformance_2020" isn't style-file defined
+--line 1022 of file ref/refs.bib
+You've used 101 entries,
             5246 wiz_defined-function locations,
-            1488 strings with 23070 characters,
-and the built_in function-call counts, 415959 in all, are:
-= -- 7987
-> -- 46569
-< -- 61097
-+ -- 17382
-- -- 2569
-* -- 2051
-:= -- 57382
-add.period$ -- 254
-call.type$ -- 71
-change.case$ -- 292
-chr.to.int$ -- 15596
-cite$ -- 71
-duplicate$ -- 1643
-empty$ -- 4747
-format.name$ -- 1189
-if$ -- 109194
-int.to.chr$ -- 4
-int.to.str$ -- 72
+            1580 strings with 26527 characters,
+and the built_in function-call counts, 512513 in all, are:
+= -- 11171
+> -- 53941
+< -- 74498
++ -- 22838
+- -- 3634
+* -- 2775
+:= -- 72282
+add.period$ -- 345
+call.type$ -- 101
+change.case$ -- 322
+chr.to.int$ -- 20319
+cite$ -- 101
+duplicate$ -- 2315
+empty$ -- 6736
+format.name$ -- 1549
+if$ -- 133913
+int.to.chr$ -- 7
+int.to.str$ -- 102
 missing$ -- 0
-newline$ -- 415
-num.names$ -- 218
-pop$ -- 21055
+newline$ -- 566
+num.names$ -- 308
+pop$ -- 22260
 preamble$ -- 1
-purify$ -- 71
+purify$ -- 101
 quote$ -- 0
-skip$ -- 43016
+skip$ -- 51551
 stack$ -- 0
-substring$ -- 19212
-swap$ -- 79
-text.length$ -- 831
+substring$ -- 25456
+swap$ -- 115
+text.length$ -- 1152
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 827
+type$ -- 1173
 warning$ -- 0
-while$ -- 1087
+while$ -- 1514
 width$ -- 0
-write$ -- 977
+write$ -- 1367
 (There were 8 error messages)
