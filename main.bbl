@@ -1,4 +1,4 @@
-\begin{thebibliography}{101}
+\begin{thebibliography}{131}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -496,10 +496,10 @@ SENGE~P~M.
   项目信息文件[Z].
 \newblock [出版地不详: 出版者不详], 2022{\natexlab{b}}.
 
-\bibitem[{世界银行}(2020)]{worldbank_improvingperformance_2020}
+\bibitem[{世界银行}(2020{\natexlab{a}})]{worldbank_improvingperformance_2020}
 {世界银行}.
 \newblock 提升越南高等教育绩效：战略优先与政策选择[Z].
-\newblock [出版地不详]: 世界银行集团, 2020.
+\newblock [出版地不详]: 世界银行集团, 2020{\natexlab{a}}.
 
 \bibitem[{越南新闻}(2017)]{vietnamnews_unemployed_2017}
 {越南新闻}.
@@ -553,19 +553,19 @@ C.范 H. T. 和 阮~T.
 \newblock 质量文化：理解、边界与联系[J].
 \newblock 欧洲教育杂志, 2008, 43\allowbreak (4): 427-442.
 
-\bibitem[{裴氏秋姮}(2021)]{vjol_reactiveculture_2021}
+\bibitem[{裴氏秋姮}(2021{\natexlab{a}})]{vjol_reactiveculture_2021}
 {裴氏秋姮}.
 \newblock 通过案例研究看越南大学的质量文化现状[J].
-\newblock 胡志明市开放大学社会科学与人文杂志, 2021,
-  15\allowbreak (1): 3-14.
+\newblock 胡志明市开放大学社会科学与人文杂志,
+  2021{\natexlab{a}}, 15\allowbreak (1): 3-14.
 
 \bibitem[{阮氏秋贤, 阮国政, 陈氏美妙 和
-  黎光明}(2021)]{iosr_passiveparticipation_2021}
+  黎光明}(2021{\natexlab{a}})]{iosr_passiveparticipation_2021}
 {阮氏秋贤, 阮国政, 陈氏美妙 和 黎光明}.
 \newblock
   教师对质量保障活动的被动参与：越南的案例研究[J].
-\newblock IOSR社会科学与人文学科杂志, 2021, 26\allowbreak (2, Series
-  4): 01-13.
+\newblock IOSR社会科学与人文学科杂志, 2021{\natexlab{a}},
+  26\allowbreak (2, Series 4): 01-13.
 
 \bibitem[{胡志明市技术大学}(2022)]{hutech_khao_sat_2022}
 {胡志明市技术大学}.
@@ -573,12 +573,12 @@ C.范 H. T. 和 阮~T.
   征求学生对2022-2023学年第一学期A阶段教师教学活动的意见（自10月17日起）[Z].
 \newblock [出版地不详: 出版者不详], 2022.
 
-\bibitem[{范氏红深 和 阮氏玉碧}(2018)]{vnujs_er_2018}
+\bibitem[{范氏红深 和 阮氏玉碧}(2018{\natexlab{a}})]{vnujs_er_2018}
 {范氏红深 和 阮氏玉碧}.
 \newblock
   雇主对大学毕业生质量的反馈：越南一所公立大学的案例[J].
-\newblock 河内国家大学科学杂志：教育研究, 2018, 34\allowbreak
-  (4).
+\newblock 河内国家大学科学杂志：教育研究, 2018{\natexlab{a}},
+  34\allowbreak (4).
 
 \bibitem[{黎德玉 和
   阮贵清}(2019{\natexlab{a}})]{vje_aun_implementation_2019}
@@ -616,12 +616,13 @@ C.范 H. T. 和 阮~T.
 \newblock 河内国家大学科学杂志：政策与管理研究,
   2019{\natexlab{b}}, 35\allowbreak (1).
 
-\bibitem[{阮氏美玉 和 杨美深}(2021)]{ijlter_elo_copy_2021}
+\bibitem[{阮氏美玉 和
+  杨美深}(2021{\natexlab{a}})]{ijlter_elo_copy_2021}
 {阮氏美玉 和 杨美深}.
 \newblock
   构建学士课程预期学习成果的困难：一所越南大学的案例研究[J].
-\newblock 国际学习、教学与教育研究杂志, 2021, 20\allowbreak (3):
-  273-288.
+\newblock 国际学习、教学与教育研究杂志, 2021{\natexlab{a}},
+  20\allowbreak (3): 273-288.
 
 \bibitem[唐，凯瑟琳比格斯，约翰·B.~和(2011)]{Biggs2011}
 唐，凯瑟琳比格斯，约翰·B.~和.
@@ -651,5 +652,179 @@ C.范 H. T. 和 阮~T.
 {河内国家大学教育质量保障研究院}.
 \newblock 部署并运行质量保障与大学排名信息门户[Z].
 \newblock [出版地不详: 出版者不详], 2022.
+
+\bibitem[{世界银行}(2020{\natexlab{b}})]{worldbank_improvingperformance}
+{世界银行}.
+\newblock 提升越南高等教育绩效：战略优先与政策选择[Z].
+\newblock [出版地不详]: 世界银行集团, 2020{\natexlab{b}}.
+
+\bibitem[范文俊陈文达 和 阮黄芳 和 黄文训 和
+  黎青海~和(2022)]{pmc_article_9127449}
+范文俊陈文达 和 阮黄芳 和 黄文训 和 黎青海~和.
+\newblock
+  越南高等教育的质量保障：一项关于利益相关者角色和尚存差距的范围综述[J].
+\newblock 公共科学图书馆期刊, 2022, 17\allowbreak (5): e0268593.
+
+\bibitem[{裴氏秋姮}(2021{\natexlab{b}})]{vjol_reactiveculture}
+{裴氏秋姮}.
+\newblock 通过案例研究看越南大学的质量文化现状[J].
+\newblock 胡志明市开放大学社会科学与人文杂志,
+  2021{\natexlab{b}}, 15\allowbreak (1): 3-14.
+
+\bibitem[{莲花大学}(2019)]{hoasen_benefits_aunqa}
+{莲花大学}.
+\newblock
+  东盟大学网络质量保障认证会给学生带来哪些好处？[Z].
+\newblock [出版地不详: 出版者不详], 2019.
+
+\bibitem[{东盟大学网络}(2016)]{aun_institutional_v2}
+{东盟大学网络}.
+\newblock 东盟大学网络质量保障机构层面评估指南2.0版[M].
+\newblock [出版地不详: 出版者不详], 2016.
+
+\bibitem[{杜氏娴 和 阮廷辉 和 裴氏秋姮}(2021)]{stdjssh_637}
+{杜氏娴 和 阮廷辉 和 裴氏秋姮}.
+\newblock
+  在大学中实施符合东盟大学网络质量保障标准的质量保障活动的困难[J].
+\newblock 科技发展杂志-社会科学与人文学科版, 2021, 5\allowbreak
+  (2): 637-646.
+
+\bibitem[{第二区域政治学院}(2022)]{ncdt_journal_219}
+{第二区域政治学院}.
+\newblock 越南高等教育质量保障体系：现状与解决方案[J].
+\newblock 政治科学杂志, 2022.
+
+\bibitem[{越南+}(2016)]{vietnamplus_cdio_reform}
+{越南+}.
+\newblock 越南大学改革培养方案[Z].
+\newblock [出版地不详: 出版者不详], 2016.
+
+\bibitem[T.阮 D.T. 和 邓 V. S. 和 黎 H. P. 和 陈
+  T.~T.(2016)]{nguyen_cdio_2016}
+T.阮 D.T. 和 邓 V. S. 和 黎 H. P. 和 陈 T.~T.
+\newblock
+  构思-设计-实现-运作倡议在越南的十年：成就与挑战[C]//\allowbreak
+第12届构思-设计-实现-运作国际会议论文集.
+\newblock 芬兰图尔库: [出版者不详], 2016.
+
+\bibitem[威廉姆斯，詹姆斯哈维，李~和(2010)]{harvey_williams_2010}
+威廉姆斯，詹姆斯哈维，李~和.
+\newblock 高等教育质量的十五年[J].
+\newblock 高等教育质量, 2010, 16\allowbreak (1): 3-36.
+
+\bibitem[{昆士兰大学}(2021)]{uq_kpi_dashboard}
+{昆士兰大学}.
+\newblock 关键绩效指标仪表盘注释 -
+  规划与商业智能办公室[Z].
+\newblock [出版地不详: 出版者不详], 2021.
+
+\bibitem[{陈庆德 和 阮氏香}(2019)]{vnujs_fs_4303}
+{陈庆德 和 阮氏香}.
+\newblock 自主与国际一体化背景下的大学治理[J].
+\newblock 河内国家大学科学杂志：外国研究, 2019, 35\allowbreak
+  (4).
+
+\bibitem[{联合国教科文组织}(2024)]{unesco_gem_report_2024}
+{联合国教科文组织}.
+\newblock 2024/5年全球教育监测报告：为学习而领导[Z].
+\newblock [出版地不详]: 联合国教育、科学及文化组织, 2024.
+
+\bibitem[{教育培训部}(2023{\natexlab{a}})]{moet_report_autonomy}
+{教育培训部}.
+\newblock 关于在越南实施大学自主的总结报告[Z].
+\newblock [出版地不详: 出版者不详], 2023{\natexlab{a}}.
+
+\bibitem[克拉克，伯顿·R.(1998)]{clark_1998}
+克拉克，伯顿·R.
+\newblock 创建创业型大学：组织的转型路径[M].
+\newblock 牛津；纽约: 国际大学协会出版社/佩加蒙出版社,
+  1998.
+
+\bibitem[{政府总理}(2019)]{moet_project_89}
+{政府总理}.
+\newblock
+  第89/QĐ-TTg号决定：批准《提升高等教育机构师资、管理干部队伍能力以满足2019-2030年阶段教育与培训根本性、全面性革新要求的提案》[Z].
+\newblock [出版地不详: 出版者不详], 2019.
+
+\bibitem[{欧洲大学协会}(2006)]{eua_quality_culture}
+{欧洲大学协会}.
+\newblock 质量文化调查：第一部分 –
+  高等教育机构的质量保障流程[R].
+\newblock 比利时布鲁塞尔: 欧洲大学协会, 2006.
+
+\bibitem[{阮氏秋贤, 阮国政, 陈氏美妙 和
+  黎光明}(2021{\natexlab{b}})]{iosr_passiveparticipation}
+{阮氏秋贤, 阮国政, 陈氏美妙 和 黎光明}.
+\newblock
+  教师对质量保障活动的被动参与：越南的案例研究[J].
+\newblock IOSR社会科学与人文学科杂志, 2021{\natexlab{b}},
+  26\allowbreak (2, Series 4): 01-13.
+
+\bibitem[科特，约翰·P.(1996)]{kotter_leading_change}
+科特，约翰·P.
+\newblock 领导变革[M].
+\newblock 马萨诸塞州波士顿: 哈佛商学院出版社, 1996.
+
+\bibitem[{范氏红深 和 阮氏玉碧}(2018{\natexlab{b}})]{vnujs_er_3848}
+{范氏红深 和 阮氏玉碧}.
+\newblock
+  雇主对大学毕业生质量的反馈：越南一所公立大学的案例[J].
+\newblock 河内国家大学科学杂志：教育研究, 2018{\natexlab{b}},
+  34\allowbreak (4).
+
+\bibitem[{东盟大学网络}(2020)]{aunqa_guidelines_v4}
+{东盟大学网络}.
+\newblock 东盟大学网络质量保障课程层面评估指南4.0版[M].
+\newblock [出版地不详]: 东盟大学网络质量保障秘书处, 2020.
+
+\bibitem[{教育培训部}(2023{\natexlab{b}})]{moet_graduate_survey}
+{教育培训部}.
+\newblock 毕业生就业情况调查报告[Z].
+\newblock [出版地不详: 出版者不详], 2023{\natexlab{b}}.
+
+\bibitem[{阮氏美玉 和 杨美深}(2021{\natexlab{b}})]{ijlter_elo_copy}
+{阮氏美玉 和 杨美深}.
+\newblock
+  构建学士课程预期学习成果的困难：一所越南大学的案例研究[J].
+\newblock 国际学习、教学与教育研究杂志, 2021{\natexlab{b}},
+  20\allowbreak (3): 273-288.
+
+\bibitem[比格斯，约翰(1996)]{biggs_constructive_alignment}
+比格斯，约翰.
+\newblock 通过建设性对齐提升教学质量[J].
+\newblock 高等教育, 1996, 32\allowbreak (3): 347-364.
+
+\bibitem[{教育培训部}(2022)]{moet_digital_transformation}
+{教育培训部}.
+\newblock 关于教育与培训领域数字化转型的报告[Z].
+\newblock [出版地不详: 出版者不详], 2022.
+
+\bibitem[阮氏金英黎文奉~和(2024)]{seaairweb_journal_v22}
+阮氏金英黎文奉~和.
+\newblock
+  为大学开发管理信息系统：一所越南大学的案例研究[J].
+\newblock 东南亚制度研究杂志, 2024, 22\allowbreak (2): 5-18.
+
+\bibitem[{欧洲高等教育质量保障协会}(2012)]{enqa_forum_report_201X}
+{欧洲高等教育质量保障协会}.
+\newblock
+  第二次欧洲高等教育质量保障协会关于质量保障实施与使用的论坛报告[R].
+\newblock 比利时布鲁塞尔: 欧洲高等教育质量保障协会, 2012.
+
+\bibitem[伦德，海伦杰克逊，诺曼~和(2000)]{jackson_lund_2000}
+伦德，海伦杰克逊，诺曼~和.
+\newblock 高等教育的标杆比对[M].
+\newblock 白金汉: 高等教育研究学会与开放大学出版社, 2000.
+
+\bibitem[{世界银行}(2017-2022)]{worldbank_sahep}
+{世界银行}.
+\newblock 越南：扩大高等教育规模项目[Z].
+\newblock [出版地不详: 出版者不详], 2017-2022.
+
+\bibitem[{世界银行}(2021)]{worldbank_reform_agenda}
+{世界银行}.
+\newblock
+  越南高等教育改革议程：应对第四次工业革命和高收入经济体的需求[Z].
+\newblock [出版地不详: 出版者不详], 2021.
 
 \end{thebibliography}
