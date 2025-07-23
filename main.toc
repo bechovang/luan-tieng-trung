@@ -1,7 +1,7 @@
 \contentsline {chapter}{摘\hspace {1em}要}{I}{section*.2}%
 \contentsline {chapter}{ABSTRACT}{III}{section*.4}%
-\contentsline {chapter}{插图索引}{X}{section*.8}%
-\contentsline {chapter}{表格索引}{XI}{section*.10}%
+\contentsline {chapter}{插图索引}{XI}{section*.8}%
+\contentsline {chapter}{表格索引}{XII}{section*.10}%
 \contentsline {chapter}{第~1~章\hspace {1em} 引言}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}研究背景与选题理由}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}全球背景：质量保障成为必然趋势}{1}{subsection.1.1.1}%
@@ -213,5 +213,17 @@
 \contentsline {paragraph}{解决方案2.2：建立改进创举的表彰与奖励体系。}{82}{subsection.4.6.3}%
 \contentsline {paragraph}{解决方案2.3：通过“改进小组”为教师赋能并建设其能力。}{83}{subsection.4.6.3}%
 \contentsline {subsection}{\numberline {4.6.4}质量文化要素的风险分析与缓解方案}{83}{subsection.4.6.4}%
-\contentsline {chapter}{参考文献}{85}{section*.33}%
+\contentsline {subsection}{\numberline {4.6.5}要素三：将利益相关者转变为战略伙伴}{84}{subsection.4.6.5}%
+\contentsline {paragraph}{解决方案3.1：通过咨询委员会将校企联系机制化。}{84}{subsection.4.6.5}%
+\contentsline {paragraph}{解决方案3.2：提升学生和校友的角色。}{85}{subsection.4.6.5}%
+\contentsline {subsection}{\numberline {4.6.6}利益相关者要素的风险分析与缓解方案}{85}{subsection.4.6.6}%
+\contentsline {subsection}{\numberline {4.6.7}要素四：核心学术流程的现代化}{86}{subsection.4.6.7}%
+\contentsline {subsubsection}{\numberline {4.6.7.1}解决方案4.1：采用基于成果导向教育的培养方案开发流程。}{86}{subsubsection.4.6.7.1}%
+\contentsline {subsubsection}{\numberline {4.6.7.2}解决方案4.2：多样化教与学及评估方法。}{87}{subsubsection.4.6.7.2}%
+\contentsline {subsection}{\numberline {4.6.8}学术流程的风险分析与缓解方案}{88}{subsection.4.6.8}%
+\contentsline {subsubsection}{\numberline {4.6.8.1}解决方案4.3：构建质量保障管理信息系统}{89}{subsubsection.4.6.8.1}%
+\contentsline {paragraph}{建议的系统架构。}{89}{subsubsection.4.6.8.1}%
+\contentsline {paragraph}{输出产品：智能报告与仪表盘。}{90}{figure.caption.33}%
+\contentsline {subsection}{\numberline {4.6.9}质量保障管理信息系统的风险分析与缓解方案}{91}{subsection.4.6.9}%
+\contentsline {chapter}{参考文献}{92}{section*.37}%
 \contentsfinish 
