@@ -1,0 +1,168 @@
+{
+  "timestamp": "2025-07-24T09:00:56.407270",
+  "total_stats": {
+    "total_words": 3898,
+    "chinese_words": 3510,
+    "vietnamese_words": 388,
+    "english_words": 388,
+    "num_chapters": 10
+  },
+  "chapters": [
+    {
+      "chapter_name": "main",
+      "file_path": "main.tex",
+      "total_words": 1,
+      "chinese_words": 0,
+      "vietnamese_words": 1,
+      "english_words": 1,
+      "language_breakdown": {
+        "chinese": 0,
+        "vietnamese": 1,
+        "english": 1,
+        "total": 1
+      }
+    },
+    {
+      "chapter_name": "ack",
+      "file_path": "ack.tex",
+      "total_words": 0,
+      "chinese_words": 0,
+      "vietnamese_words": 0,
+      "english_words": 0,
+      "language_breakdown": {
+        "chinese": 0,
+        "vietnamese": 0,
+        "english": 0,
+        "total": 0
+      }
+    },
+    {
+      "chapter_name": "外文资料原文",
+      "file_path": "appendix.tex",
+      "total_words": 411,
+      "chinese_words": 150,
+      "vietnamese_words": 261,
+      "english_words": 261,
+      "language_breakdown": {
+        "chinese": 150,
+        "vietnamese": 261,
+        "english": 261,
+        "total": 411
+      }
+    },
+    {
+      "chapter_name": "引言",
+      "file_path": "chap1.tex",
+      "total_words": 690,
+      "chinese_words": 644,
+      "vietnamese_words": 46,
+      "english_words": 46,
+      "language_breakdown": {
+        "chinese": 644,
+        "vietnamese": 46,
+        "english": 46,
+        "total": 690
+      }
+    },
+    {
+      "chapter_name": "高等教育质量保障的理论基础",
+      "file_path": "chap2.tex",
+      "total_words": 998,
+      "chinese_words": 928,
+      "vietnamese_words": 70,
+      "english_words": 70,
+      "language_breakdown": {
+        "chinese": 928,
+        "vietnamese": 70,
+        "english": 70,
+        "total": 998
+      }
+    },
+    {
+      "chapter_name": "越南外部质量保障体系现状分析",
+      "file_path": "chap3.tex",
+      "total_words": 736,
+      "chinese_words": 730,
+      "vietnamese_words": 6,
+      "english_words": 6,
+      "language_breakdown": {
+        "chinese": 730,
+        "vietnamese": 6,
+        "english": 6,
+        "total": 736
+      }
+    },
+    {
+      "chapter_name": "为越南高等教育提出混合与适应性质量保障模型（V-AQA模型）",
+      "file_path": "chap4.tex",
+      "total_words": 577,
+      "chinese_words": 575,
+      "vietnamese_words": 2,
+      "english_words": 2,
+      "language_breakdown": {
+        "chinese": 575,
+        "vietnamese": 2,
+        "english": 2,
+        "total": 577
+      }
+    },
+    {
+      "chapter_name": "结论与建议",
+      "file_path": "chap5.tex",
+      "total_words": 485,
+      "chinese_words": 483,
+      "vietnamese_words": 2,
+      "english_words": 2,
+      "language_breakdown": {
+        "chinese": 483,
+        "vietnamese": 2,
+        "english": 2,
+        "total": 485
+      }
+    },
+    {
+      "chapter_name": "cover",
+      "file_path": "cover.tex",
+      "total_words": 0,
+      "chinese_words": 0,
+      "vietnamese_words": 0,
+      "english_words": 0,
+      "language_breakdown": {
+        "chinese": 0,
+        "vietnamese": 0,
+        "english": 0,
+        "total": 0
+      }
+    },
+    {
+      "chapter_name": "paper",
+      "file_path": "paper.tex",
+      "total_words": 0,
+      "chinese_words": 0,
+      "vietnamese_words": 0,
+      "english_words": 0,
+      "language_breakdown": {
+        "chinese": 0,
+        "vietnamese": 0,
+        "english": 0,
+        "total": 0
+      }
+    }
+  ],
+  "summary": {
+    "longest_chapter": {
+      "name": "高等教育质量保障的理论基础",
+      "words": 998
+    },
+    "shortest_chapter": {
+      "name": "ack",
+      "words": 0
+    },
+    "average_words_per_chapter": 389.8,
+    "language_distribution": {
+      "chinese_percentage": 90.05,
+      "vietnamese_percentage": 9.95,
+      "english_percentage": 9.95
+    }
+  }
+}
